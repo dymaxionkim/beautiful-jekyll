@@ -22,11 +22,20 @@ subtitle: Better World made by Engineering.
 * Temperature Personal Servers ::: [OwnCloud](http://dymaxionkim.mooo.com/owncloud)
 
 ## Brief Career
+
 **I have some experiences in Semiconductor Inspections, Consumer Devices, Robotics and some Military Devices.**
+
 * 1997~2000 ::: 1DOF Inverted Pendulum / 4DOF Rig for 35mm Camera / 6DOF Motion Control Camera
+
 * 2001~2003 ::: Fine Tungsten Needle by ElectroChemical MEMS Process for Chip Probe Station / Wafer Deprocessing Inspection Machine / Wafer Decapper Inspection Machine
+
 * 2003~2006 ::: LCD TV / NoteBook / CellPhone / Various Consumer Devices
+
 * 2006~2007 ::: Marine Devices (Steering, Throttle Lever)
+
 * 2009~2012 ::: Human Sized Low-Cost Light Weight Redundent Manipulators
-* 2007~2015 ::: Education Devices / Humanoid Robots / Articulated & Scara Manipulators / Holonomic Mobile Robots / Human Carring Mobile Robot
+
+* 2007~2015 ::: Education Devices / Humanoid Robots / Articulated & Scara  Manipulators / Holonomic Mobile Robots / Human Carring Mobile Robot
+
 * 2015~ ::: RCWS / PTZ
+
