@@ -31,6 +31,7 @@ navbar-links:
     #- Author's home: "http://deanattali.com"
     - Markdown?: "https://gist.github.com/ihoneymon/652be052a0727ad59601"
     - Home: "https://dymaxionkim.github.io"
+    - Repository: "https://github.com/dymaxionkim/beautiful-jekyll"
     - Prose.io: "http://prose.io/"
     - dillinger.io: "http://dillinger.io/"
     - Draw.io: "https://www.draw.io/"
