@@ -40,7 +40,9 @@ date: '2001-12-31'
 ![pocket-bot-03](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/Images/pocket-bot-03-dymaxion.jpg)
 
 * Line Tracing
+
 ![Line Tracing](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/Images/2-dymaxion.gif)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDE5iykJ2N0" frameborder="0" allowfullscreen></iframe>
 
 ## Report
