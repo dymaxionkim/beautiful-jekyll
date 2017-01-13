@@ -66,9 +66,9 @@ subtitle: Open-Source Mechanical Engineering
   - Fine Tungsten Needle by ElectroChemical MEMS Process for Chip Probe Station
   - Wafer Deprocessing Inspection Machine
   - Wafer Decapper Inspection Machine
-  - [PocketBot](/_posts/2001-12-31-pocketbot)
+  - [PocketBot](/beautiful-jekyll/_posts/2001-12-31-pocketbot)
 * 1997~2000 (학생시절)
-  - [1DOF Inverted Pendulum](/_posts/1998-12-31-InvertedPendulum)
-  - [Cubic Spline Interpolation Program with LU Decomposition](/_posts/2000-12-31-decomposition)
+  - [1DOF Inverted Pendulum](/beautiful-jekyll/_posts/1998-12-31-InvertedPendulum)
+  - [Cubic Spline Interpolation Program with LU Decomposition](/beautiful-jekyll/_posts/2000-12-31-decomposition)
   - 4DOF Rig for 35mm Camera
   - 6DOF Motion Control Camera
