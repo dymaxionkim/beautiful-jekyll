@@ -573,5 +573,5 @@ plot(x,y4)
 
 
 ## Result
-* Source Code : <https://github.com/dymaxionkim/beautiful-jekyll/tree/master/portfolio/2000_LU_Decomposition/Source>
-* Report : [2000_LU_Decomposition.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2000_LU_Decomposition/2000_LU_Decomposition.pdf)
+* Source Code : <https://github.com/dymaxionkim/beautiful-jekyll/tree/master/_posts/portfolio/2000_LU_Decomposition/Source>
+* Report : [2000_LU_Decomposition.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2000_LU_Decomposition/2000_LU_Decomposition.pdf)  [View](https://github.com/dymaxionkim/beautiful-jekyll/blob/master/_posts/portfolio/2000_LU_Decomposition/2000_LU_Decomposition.pdf)
