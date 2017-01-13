@@ -46,9 +46,9 @@ date: '2001-12-31'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDE5iykJ2N0" frameborder="0" allowfullscreen></iframe>
 
 ## Report
-* [01_Personal_Robot_Projects_MDT_mdt_Pocket_bot_.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/01_Personal_Robot_Projects_MDT_mdt_Pocket_bot_.pdf)
-* [02_Personal_Robot_Projects_Kinetics.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/02_Personal_Robot_Projects_Kinetics.pdf)
-* [03_Personal_Robot_Projects_Kinematics.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/03_Personal_Robot_Projects_Kinematics.pdf)
+* [01_Personal_Robot_Projects_MDT_mdt_Pocket_bot_.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIeVVtVEhuSE1CX2s)
+* [02_Personal_Robot_Projects_Kinetics.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIcTNwaDdFd2ZDZ1U)
+* [03_Personal_Robot_Projects_Kinematics.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIcUJNU2VLUVo0ZVE)
 * [04_Personal_Robot_Projects_circuit_01.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/04_Personal_Robot_Projects_circuit_01.pdf)
 * [05_Personal_Robot_Projects_circuit_02.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/05_Personal_Robot_Projects_circuit_02.pdf)
 * [06_Personal_Robot_Projects_Laser.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/2001_PocketBot/06_Personal_Robot_Projects_Laser.pdf)
