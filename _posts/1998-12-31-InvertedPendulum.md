@@ -12,9 +12,9 @@ date: '1998-12-31'
 * Intel 8255 chip direct Interface
 
 ## Test
-![](/home/dong/github/beautiful-jekyll/portfolio/1998_InvertedPendulum/Images/p01-dymaxion.jpg) ![](/home/dong/github/beautiful-jekyll/portfolio/1998_InvertedPendulum/Images/p02-dymaxion.jpg)
-![](/home/dong/github/beautiful-jekyll/portfolio/1998_InvertedPendulum/Images/p03-dymaxion.jpg)
-![](/home/dong/github/beautiful-jekyll/portfolio/1998_InvertedPendulum/Images/p04-dymaxion.jpg)
+![](/portfolio/1998_InvertedPendulum/Images/p01-dymaxion.jpg) ![](/portfolio/1998_InvertedPendulum/Images/p02-dymaxion.jpg)
+![](/portfolio/1998_InvertedPendulum/Images/p03-dymaxion.jpg)
+![](/portfolio/1998_InvertedPendulum/Images/p04-dymaxion.jpg)
 
 ## Report
 * [RIP1-5134-dymaxion.pdf](/portfolio/1998_InvertedPendulum/RIP1-5134-dymaxion.pdf) / [hwp](/portfolio/1998_InvertedPendulum/RIP1-5134-dymaxion.pdf)
