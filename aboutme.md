@@ -67,7 +67,11 @@ subtitle: Open-Source Mechanical Engineering
   - Wafer Deprocessing Inspection Machine
   - Wafer Decapper Inspection Machine
   - [PocketBot](/beautiful-jekyll/2001-12-31-pocketbot)
+  - [BipedalRobot](/beautiful-jekyll/2001-12-31-BipedalRobot)
 * 1997~2000 (학생시절)
+  - [DoublePendulum](/beautiful-jekyll/1998-12-31-DoublePendulum)
   - [1DOF Inverted Pendulum](/beautiful-jekyll/1998-12-31-InvertedPendulum)
   - [Cubic Spline Interpolation Program with LU Decomposition](/beautiful-jekyll/2000-12-31-decomposition)
+  - [MouseCleaner](/beautiful-jekyll/1998-12-31-MouseCleaner)
+  - [Unmaned Cart](/beautiful-jekyll/1999-12-31-UnmanedCart)
   - [Motion Control Camera System](/beautiful-jekyll/1999-12-31-MotionControl)
