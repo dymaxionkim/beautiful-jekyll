@@ -12,14 +12,14 @@ date: '1998-12-31'
 * Intel 8255 chip direct Interface
 
 ## Test
-![](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/Images/p01-dymaxion.jpg)
-![](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/Images/p02-dymaxion.jpg)
-![](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/Images/p03-dymaxion.jpg)
-![](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/Images/p04-dymaxion.jpg)
+![p01-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21951923/bc2913e2-da52-11e6-80eb-ba105059edc8.jpg)
+![p02-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21951924/bc4e571a-da52-11e6-88f1-7c9dd7492b41.jpg)
+![p03-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21951926/bc67bc96-da52-11e6-98ec-910eaa925799.jpg)
+![p04-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21951925/bc670cce-da52-11e6-8659-87b6634dfe28.jpg)
 
 ## Report
-* [RIP1-5134-dymaxion.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP1-5134-dymaxion.pdf) / [hwp](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP1-5134-dymaxion.hwp)
-* [RIP2-3619-dymaxion.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP2-3619-dymaxion.pdf) / [hwp](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP2-3619-dymaxion.hwp)
-* [RIP3-3811-dymaxion.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP3-3811-dymaxion.pdf) / [hwp](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP3-3811-dymaxion.hwp)
-* [RIP4-2297-dymaxion.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP4-2297-dymaxion.pdf) / [hwp](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP4-2297-dymaxion.hwp)
-* [RIP5-6994-dymaxion.pdf](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP5-6994-dymaxion.pdf) / [hwp](https://raw.githubusercontent.com/dymaxionkim/beautiful-jekyll/master/_posts/portfolio/1998_InvertedPendulum/RIP5-6994-dymaxion.hwp)
+* [RIP1-5134-dymaxion.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIcWdZNTVPN3pXcmc)
+* [RIP2-3619-dymaxion.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIRzRCR1NjOEcyc1E)
+* [RIP3-3811-dymaxion.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIRU1UcnBIS3pLQWs)
+* [RIP4-2297-dymaxion.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIcU1NTUVXSXJrZFE)
+* [RIP5-6994-dymaxion.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIM2QwSTB2bi1LVXc)
