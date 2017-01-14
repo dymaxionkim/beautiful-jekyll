@@ -49,18 +49,32 @@ subtitle: Open-Source Mechanical Engineering
 
 ## Career
 * 2015~2016 (네번째 직장)
-  - RCWS
+  - RCWS : [1](https://youtu.be/cPoLvRxCA8Y), [2](https://youtu.be/EceM3BEbb98), [3](https://youtu.be/x7804yFNqno), [4](https://youtu.be/_a2QYs1tQmI), [5](https://youtu.be/zMFbCSAlywU), [6](https://youtu.be/2pX_kVVDGnQ), [7](https://youtu.be/iDlhawpWe1I), [8](https://youtu.be/qn3C_sYMojU)
 * 2007~2015 (세번째 직장)
-  - Education Devices / Humanoid Robots / Articulated & Scara  Manipulators / Holonomic Mobile Robots / Human Carring Mobile Robot
+  - Education Devices
+  - Medical Device
+  - Humanoid Robot ARO : [1](https://youtu.be/jTyc1FaD8Uk), [2](https://youtu.be/CUl-XXSdWIM), [3](https://youtu.be/vlWT3drch04), [4](https://youtu.be/NQbGPxy0umc), [5](https://youtu.be/QieWNdEvGJc), [6](https://youtu.be/2G7IEOa8vZ0)
+  - Scara  Manipulator : [1](https://youtu.be/aAiKc-duiuE), [2](https://youtu.be/Gpl4qjtYkgo)
+  - Articulated Manipulator : [1](https://youtu.be/5hWb8-fZVZQ), [2](https://youtu.be/TujLiFo84Nw)
+  - Redundunt Manipulator : [1](https://youtu.be/M0dMdp8--jA), [2](https://youtu.be/YuDl8udBYMs)
+  - Holonomic Mobile Robots
+  - Human Carring Mobile Robot :
+  - Tensegrity : [6 Struts](https://youtu.be/3m_zYlhXP5k), [30 Struts](https://youtu.be/Uio2P2KjqI4)
+  - 3D Printer : [1](https://youtu.be/T8W3BfB4hYo)
+  - 3D Printed Harmonic Reducer : [1](https://youtu.be/Ow23IYtQvuk), [2](https://youtu.be/Cdh0NPkB2pA), [3](https://youtu.be/FyRVGS0yYAE)
 * 2009~2012 (개인 프로젝트)
-  - Human Sized Low-Cost Light Weight Redundent Manipulators
+  - Kynetic Signs : [1](https://youtu.be/TOG_17Aet60), [2](https://youtu.be/UUhOvXnmz5o), [3](https://youtu.be/n4SLsBCKOsY)
+  - Coffee Machine
+  - Mini Motion Control : [1](https://youtu.be/SbfJpN3Uoyo), [2](https://youtu.be/j2Xajzu9DSY)
+  - Redundent Manipulators : [1](https://youtu.be/AGi6vVhxLmk)
 * 2006~2007 (프리랜서)
-  - Marine Devices (Steering, Throttle Lever)
+  - Marine Devices : [Cables](https://grabcad.com/library/cable-assembly-for-marine-boat-1), [Steering](https://grabcad.com/library/txbr-rack-steering-assembly-for-marine-boats-1), [Throttle Lever](https://grabcad.com/library/smco-throtlle-lever-for-marine-boats-1)
 * 2003~2006 (두번째 직장)
-  - LCD TV
-  - NoteBook
-  - CellPhone
-  - Various Consumer Devices
+  - [LCD TV](https://grabcad.com/library/20inch-lcd-tv-for-beko-toshiba-1)
+  - NoteBook [1](https://grabcad.com/library/system-parts-of-aquila-notebook-1, [2](https://grabcad.com/library/plymouth-cradle-for-s-company-1)
+  - UMPC [1](https://grabcad.com/library/umpc-integrated-keyboard-for-s-company-1), [2](https://grabcad.com/library/padre-umpc-for-s-company-1)
+  - CellPhones [1](https://grabcad.com/library/hier-h355-clamshell-phone-1), [2](https://grabcad.com/library/old-smartphone-hds3000-with-wince-1)
+  - Various Consumer Devices [1](https://grabcad.com/library/walky-phone-1), [2](https://grabcad.com/library/viewtalk-wll-phone-1), [3](https://grabcad.com/library/portable-printer-for-reciept-1), [4](https://grabcad.com/library/lipstick-1), [5](https://grabcad.com/library/waterproof-navigator-for-golf-cart-1)
   - [ESEM](http://blog.naver.com/dymaxion/150002529553)
 * 2001~2003 (첫 직장)
   - Fine Tungsten Needle by ElectroChemical MEMS Process for Chip Probe Station
@@ -70,7 +84,7 @@ subtitle: Open-Source Mechanical Engineering
   - [BipedalRobot](/beautiful-jekyll/2001-12-31-BipedalRobot)
 * 1997~2000 (학생시절)
   - [DoublePendulum](/beautiful-jekyll/1998-12-31-DoublePendulum)
-  - [1DOF Inverted Pendulum](/beautiful-jekyll/1998-12-31-InvertedPendulum)
+  - [Inverted Pendulum](/beautiful-jekyll/1998-12-31-InvertedPendulum)
   - [Cubic Spline Interpolation Program with LU Decomposition](/beautiful-jekyll/2000-12-31-decomposition)
   - [MouseCleaner](/beautiful-jekyll/1998-12-31-MouseCleaner)
   - [Unmaned Cart](/beautiful-jekyll/1999-12-31-UnmanedCart)
