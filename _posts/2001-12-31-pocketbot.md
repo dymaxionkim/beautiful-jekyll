@@ -14,7 +14,7 @@ date: '2001-12-31'
 
 ## Design
 * CAD
-  - 3D Model : [https://drive.google.com/open?id=0B3VzdmodvgcIVWZSMWx6SFdKNzQ)
+  - 3D Model : [.step](https://drive.google.com/open?id=0B3VzdmodvgcIVWZSMWx6SFdKNzQ)
 
 ![pocketbot_step-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21951874/02fd9712-da52-11e6-824f-a291f072981f.jpg)
 
