@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: UnmanedCart
+title: UnmannedCart
 subtitle: in Univ., 1999
 date: '1999-12-31'
 ---

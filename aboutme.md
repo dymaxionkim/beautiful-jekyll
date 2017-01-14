@@ -87,5 +87,5 @@ subtitle: Open-Source Mechanical Engineering
   - [Inverted Pendulum](/beautiful-jekyll/1998-12-31-InvertedPendulum)
   - [Cubic Spline Interpolation Program with LU Decomposition](/beautiful-jekyll/2000-12-31-decomposition)
   - [MouseCleaner](/beautiful-jekyll/1998-12-31-MouseCleaner)
-  - [Unmaned Cart](/beautiful-jekyll/1999-12-31-UnmanedCart)
+  - [Unmanned Cart](/beautiful-jekyll/1999-12-31-UnmannedCart)
   - [Motion Control Camera System](/beautiful-jekyll/1999-12-31-MotionControl)
