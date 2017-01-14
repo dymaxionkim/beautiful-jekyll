@@ -7,7 +7,9 @@ date: '1999-12-31'
 ---
 
 ## Summary
-*
+* 4-DOF Manual Rig 제작
+* 6-DOF Motion Control 제작
+* 졸업 통과용 논문으로 작성
 
 
 ## 4-DOF Manual Rig
@@ -50,24 +52,28 @@ date: '1999-12-31'
 최초의 디자인은 4자유도를 주면서 직교운동을 하는 형태를 생각하여 보았다.  이러한 형태를 사용하면, 기계가 차지하는 공간이 커지고 안정도에 문제가 있을 것으로 보아 약간 다른 형태로 발전시켜 보았다.
 
 ![idea_sketch_first-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952688/bb13cf56-da66-11e6-8721-b1ad40882c4e.jpg)
+
 _직교 운동을 하는 모델의 아이디어 스케치_
 
 
 따라서 Boom을 리프트 시키는 동작을 통하여 들어올리도록 하는 구조가 제안되었고 검토되었다.
 
 ![idea_sketch_second-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952691/bb1a54f2-da66-11e6-91dd-1a879630b816.jpg)
+
 _리드스크류를 이용한 형태의 아이디어 스케치_
 
 
 헤드부분의 운동은, 단순한 Pan, Tilt 가 필요하였는데 이를 위해 아래 그림과 같은 세 가지의 형태를 검토하였으며, 최종적으로 마지막의 것을 선택하였다.
 
 ![idea_sketch_about_head-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952689/bb144346-da66-11e6-9abd-a6426923cd05.jpg)
+
 _헤드부분을 위한 아이디어 스케치_
 
 
 각 운동부분의 각도측정을 위해 증분형 엔코더를 사용하기로 하였는데, 부착위치는 최종 회전축에 직결하여 전동계통의 오차를 극복하도록 하였다.  엔코더의 신호는 카운터 모듈을 부착하여 읽을 수 있도록 하였다.
 
 ![idea_sketch_about_encoder-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952687/bb11cff8-da66-11e6-84be-971dfff3ad72.jpg)
+
 _각도측정을 위한 장치의 스케치_
 
 
@@ -77,6 +83,7 @@ _각도측정을 위한 장치의 스케치_
 대략적인 형태를 상상해 보기 위하여, 대략적인 치수를 넣어 도면을 작성하여 보았다.
 
 ![rough_design-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952693/bb335e98-da66-11e6-89d9-1b8e60170dd5.gif)
+
 _대략설계의 조감도_
 
 여기서 나타난 문제점과 불확실함을 조사를 통하여 확보된 자료를 근거로 상세하게 설계도를 작성할 수가 있었다.
@@ -87,6 +94,7 @@ _대략설계의 조감도_
 상세설계도면은 아래에 AutoCAD Release14 file로 저장하였다.
 
 ![real_design-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952692/bb328bda-da66-11e6-8b49-dd1f27b11956.gif)
+
 _상세설계의 조감도_
 
 
@@ -110,6 +118,7 @@ _상세설계의 조감도_
 장착되는 카메라는 베타캠, 16mm 아리플렉스, 35mm 미첼 카메라 등이며 그 페이로드는 10kg에서 최고 30kg 까지 될 것으로 예상된다.
 
 ![fries_mitchell_35r_camera-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952686/bb1174d6-da66-11e6-890e-509b0689f412.gif)
+
 _Fries Mitchell 35R Camera_
 
 정지촬영을 위한 특성을 만족하기 위해서는 확실하게 카메라를 고정시킬 수 있는 강건성과 넓은 범위에 걸쳐 움직일 수 있는 자유도가 확보되어야 하는데, 이 두가지 상반된 요소의 절충점을 찾아내는데 주안점을 둔다.
@@ -141,6 +150,7 @@ _Fries Mitchell 35R Camera_
 5. 피사체가 놓인 Set table 위로 카메라가 1.5m 이상 뻗을 수 있도록 한다.
 
 ![idea_sketch_about_motion-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952690/bb14f8ea-da66-11e6-80f4-9e2cd0ae21d5.jpg)
+
 _Set table 위로 카메라가 비행할 수 있도록 한다_
 
 
@@ -152,6 +162,7 @@ _Set table 위로 카메라가 비행할 수 있도록 한다_
 4. 엔코더의 분해능은 국산(LG산전 또는 Autonics사)의 경우 최고 2000 Pulse/Revolution 이 있으며, 이를 사용할 경우 분해능은 0.18도가 된다.  2000 펄스 제품이 재고가 없을 경우 1000펄스 제품을 사용하면 된다고 본다(분해능 0.36도).
 
 ![encoder-dymaxion](https://cloud.githubusercontent.com/assets/12775748/21952684/baf19396-da66-11e6-8254-342f46e12e70.jpg)
+
 _Resolution 2000 Pulse Encoder Device_
 
 
