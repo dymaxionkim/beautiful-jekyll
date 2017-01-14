@@ -71,7 +71,7 @@ subtitle: Open-Source Mechanical Engineering
   - Marine Devices : [Cables](https://grabcad.com/library/cable-assembly-for-marine-boat-1), [Steering](https://grabcad.com/library/txbr-rack-steering-assembly-for-marine-boats-1), [Throttle Lever](https://grabcad.com/library/smco-throtlle-lever-for-marine-boats-1)
 * 2003~2006 (두번째 직장)
   - [LCD TV](https://grabcad.com/library/20inch-lcd-tv-for-beko-toshiba-1)
-  - NoteBook [1](https://grabcad.com/library/system-parts-of-aquila-notebook-1, [2](https://grabcad.com/library/plymouth-cradle-for-s-company-1)
+  - NoteBook [1](https://grabcad.com/library/system-parts-of-aquila-notebook-1), [2](https://grabcad.com/library/plymouth-cradle-for-s-company-1)
   - UMPC [1](https://grabcad.com/library/umpc-integrated-keyboard-for-s-company-1), [2](https://grabcad.com/library/padre-umpc-for-s-company-1)
   - CellPhones [1](https://grabcad.com/library/hier-h355-clamshell-phone-1), [2](https://grabcad.com/library/old-smartphone-hds3000-with-wince-1)
   - Various Consumer Devices [1](https://grabcad.com/library/walky-phone-1), [2](https://grabcad.com/library/viewtalk-wll-phone-1), [3](https://grabcad.com/library/portable-printer-for-reciept-1), [4](https://grabcad.com/library/lipstick-1), [5](https://grabcad.com/library/waterproof-navigator-for-golf-cart-1)
