@@ -70,5 +70,4 @@ subtitle: Open-Source Mechanical Engineering
 * 1997~2000 (학생시절)
   - [1DOF Inverted Pendulum](/beautiful-jekyll/1998-12-31-InvertedPendulum)
   - [Cubic Spline Interpolation Program with LU Decomposition](/beautiful-jekyll/2000-12-31-decomposition)
-  - 4DOF Rig for 35mm Camera
-  - 6DOF Motion Control Camera
+  - [Motion Control Camera System](/beautiful-jekyll/1999-12-31-MotionControl)
