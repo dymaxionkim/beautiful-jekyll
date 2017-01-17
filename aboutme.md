@@ -49,7 +49,7 @@ subtitle: Open-Source Mechanical Engineering
 
 ## Career
 * 2015~2016 (네번째 직장)
-  - [TRCWS](/beautiful-jekyll/_posts/2017-01-17-RCWS)
+  - [TRCWS](/beautiful-jekyll/2017-01-17-RCWS)
   - [SRCWS] : [1](https://youtu.be/cPoLvRxCA8Y), [2](https://youtu.be/EceM3BEbb98), [3](https://youtu.be/x7804yFNqno), [4](https://youtu.be/_a2QYs1tQmI), [5](https://youtu.be/zMFbCSAlywU), [6](https://youtu.be/2pX_kVVDGnQ), [7](https://youtu.be/iDlhawpWe1I), [8](https://youtu.be/qn3C_sYMojU)
 * 2007~2015 (세번째 직장)
   - Education Devices
