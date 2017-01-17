@@ -4,6 +4,7 @@ published: true
 title: MouseCleaner
 subtitle: in Univ., 1998
 date: '1998-12-31'
+bigimg: /img/bigimg04.jpg
 ---
 
 ## Summary

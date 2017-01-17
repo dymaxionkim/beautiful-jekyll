@@ -4,6 +4,7 @@ published: true
 title: decomposition
 subtitle: Cubic Spline Interpolation with LU Decomposition in Univ., 2000
 date: '2000-12-31'
+bigimg: /img/bigimg07.jpg
 ---
 
 ## Summary
@@ -575,5 +576,3 @@ plot(x,y4)
 ## Result
 * Source Code : [Source](https://drive.google.com/open?id=0B3VzdmodvgcIUFNHUGhmUkRERTg)
 * Report : [2000_LU_Decomposition.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIM2lGRk5CMjFfckE)
-
-

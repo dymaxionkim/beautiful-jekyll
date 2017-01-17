@@ -4,6 +4,7 @@ published: true
 title: PocketBot
 subtitle: in Univ., 2001
 date: '2001-12-31'
+bigimg: /img/bigimg09.jpg
 ---
 
 ## Summary
@@ -66,5 +67,3 @@ date: '2001-12-31'
 * [16_Personal_Robot_Projects_state_machine.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIMlFUWWxER3dNMUk)
 * [17_Personal_Robot_Projects_Photo_Sensor.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIbFUyMUpNMXJiWnM)
 * [18_Personal_Robot_Projects_ir_sensor_test.pdf](https://drive.google.com/open?id=0B3VzdmodvgcIRFJmblo3VkpyU2c)
-
-

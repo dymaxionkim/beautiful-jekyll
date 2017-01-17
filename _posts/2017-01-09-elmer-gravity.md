@@ -4,6 +4,7 @@ published: true
 title: Elmer_Gravity
 subtitle: 다양한 마크다운 표현 테스트
 date: '2017-01-09'
+bigimg: /img/bigimg11.jpg
 ---
 ## 개요
 * 외팔보 형태의 물체에서, 자중에 의한 쳐짐을 해석한다.
@@ -123,7 +124,7 @@ Body Force 1
 End
 
 Boundary Condition 1
-  Target Boundaries(1) = 8 
+  Target Boundaries(1) = 8
   Name = "Fix"
   Displacement 3 = 0
   Displacement 2 = 0

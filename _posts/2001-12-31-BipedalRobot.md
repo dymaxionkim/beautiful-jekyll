@@ -4,6 +4,7 @@ published: true
 title: BipedalRobot
 subtitle: 2001, Personal Study
 date: '2001-12-31'
+bigimg: /img/bigimg08.jpg
 ---
 
 ## Summary

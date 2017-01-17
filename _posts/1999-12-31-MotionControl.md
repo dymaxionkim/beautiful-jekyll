@@ -4,6 +4,7 @@ published: true
 title: MotionControl
 subtitle: in Univ., 1999
 date: '1999-12-31'
+bigimg: /img/bigimg05.jpg
 ---
 
 ## Summary

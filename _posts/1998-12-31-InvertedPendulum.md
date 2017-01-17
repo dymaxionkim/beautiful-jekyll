@@ -4,6 +4,7 @@ published: true
 title: InvertedPendulum
 subtitle: in Univ., 1998
 date: '1998-12-31'
+bigimg: /img/bigimg03.jpg
 ---
 
 ## Summary
