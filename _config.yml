@@ -23,22 +23,23 @@ description: Personal Blog
 
 # List of links in the navigation bar
 navbar-links:
-  About_Me: "aboutme"
-  Resources:
+  ABOUT: "aboutme"
+  LINK:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
     #- Author's home: "http://deanattali.com"
-    - Markdown?: "https://gist.github.com/ihoneymon/652be052a0727ad59601"
-    - Home: "https://dymaxionkim.github.io"
-    - Repository: "https://github.com/dymaxionkim/beautiful-jekyll"
-    - Prose.io: "http://prose.io/"
-    - dillinger.io: "http://dillinger.io/"
-    - Draw.io: "https://www.draw.io/"
-    - HostMath: "http://www.hostmath.com/"
-  Search:
-    - Simple: "search/"
-    - Google: "searchGoogle/"
+    - MARKDOWN?: "https://gist.github.com/ihoneymon/652be052a0727ad59601"
+    - HOME: "https://dymaxionkim.github.io"
+    - REPOSITORY: "https://github.com/dymaxionkim/beautiful-jekyll"
+    - PROSE.IO: "http://prose.io/"
+    - dILLINGER.IO: "http://dillinger.io/"
+    - DRAW.IO: "https://www.draw.io/"
+    - HOSTMATH: "http://www.hostmath.com/"
+    - SCI-HUB: "http://sci-hub.bz/"
+  SEARCH:
+    - SIMPLE: "search/"
+    - GOOGLE: "searchGoogle/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
