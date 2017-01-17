@@ -198,12 +198,19 @@ prose:
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
           alterable: true
+      - name: "bigimg"
+        field:
+          element: "text"
+          label: "bigimg"
+          help: "Add a big image's path to your post."
+          placeholder: "A bakground of your post."
+          alterable: true
       - name: "image"
         field:
           element: "text"
           label: "Image"
           help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
+          placeholder: "/img/bigimg01.jpg"
           alterable: true
       - name: "published"
         field:
