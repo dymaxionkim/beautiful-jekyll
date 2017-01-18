@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: MotionControl
-subtitle: in Univ., 1999
+subtitle: 'in Univ., 1999'
 date: '1999-12-31'
 bigimg: /img/bigimg05.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/21952711/1eaff724-da67-11e6-8101-f0073ac802ca.jpg
+tags: project
 ---
 
 ## Summary
