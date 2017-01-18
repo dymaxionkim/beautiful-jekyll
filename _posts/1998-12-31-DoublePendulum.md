@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: DoublePendulum
-subtitle: in Univ., 1998
+subtitle: 'in Univ., 1998'
 date: '1998-12-31'
 bigimg: /img/bigimg02.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/21953359/03b021b8-da78-11e6-95e2-b0c365b09241.JPG
+tags: project
 ---
 
 ## Summary
