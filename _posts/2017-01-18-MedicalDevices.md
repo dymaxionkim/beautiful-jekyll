@@ -5,6 +5,9 @@ title: MedicalDevices
 subtitle: SCELDIS ...
 date: '2017-01-18'
 bigimg: /img/bigimg19.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/22054081/5c1e7fda-dd97-11e6-9363-9cc15119b4a1.png
+tags: project
 ---
 
 ## Summary

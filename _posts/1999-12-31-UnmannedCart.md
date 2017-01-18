@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: UnmannedCart
-subtitle: in Univ., 1999
+subtitle: 'in Univ., 1999'
 date: '1999-12-31'
 bigimg: /img/bigimg06.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/21953394/af6f2d0a-da78-11e6-8d8c-2252f82128c7.jpg
+tags: project
 ---
 
 ## Summary

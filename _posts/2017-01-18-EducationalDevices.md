@@ -5,6 +5,9 @@ title: EducationalDevices
 subtitle: Various Educational Devices
 date: '2017-01-18'
 bigimg: /img/bigimg16.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/22053957/e0f2dbe4-dd96-11e6-8b89-e17a4a109768.jpg
+tags: project
 ---
 
 ## Summary

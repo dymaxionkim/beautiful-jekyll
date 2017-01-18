@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: BipedalRobot
-subtitle: 2001, Personal Study
+subtitle: '2001, Personal Study'
 date: '2001-12-31'
 bigimg: /img/bigimg08.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/21953081/982ee9c0-da71-11e6-962d-14d2fd8d1f6d.gif
+tags: project
 ---
 
 ## Summary
