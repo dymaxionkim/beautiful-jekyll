@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: ConsumerDevices
-subtitle: UMPC, Phone, PC, ...
+subtitle: 'UMPC, Phone, PC, ...'
 date: '2017-01-18'
 bigimg: /img/bigimg15.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/22053911/c4afea1c-dd96-11e6-8b76-eda54e13ed37.jpg
+tags: project
 ---
 
 ## Summary
