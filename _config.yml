@@ -198,7 +198,7 @@ prose:
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
           alterable: true
-      - name: "bigimg"
+      - name: "BigImg"
         field:
           element: "text"
           label: "bigimg"
@@ -209,15 +209,15 @@ prose:
         field:
           element: "text"
           label: "Image"
-          help: "Add a thumbnail image like this : /img/hello_world.jpeg"
-          placeholder: "/img/hello_world.jpeg"
+          help: "Add a thumbnail image's URL"
+          placeholder: "http://...png"
           alterable: true
       - name: "tags"
         field:
           element: "text"
           label: "Tags"
-          help: "Add a tags like this : [a, b]"
-          placeholder: "[a, b]"
+          help: "Add a tags like this : project, software, mechanics, life"
+          placeholder: "project, software, mechanics, life"
           alterable: true
       - name: "published"
         field:
