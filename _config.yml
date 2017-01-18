@@ -216,8 +216,8 @@ prose:
         field:
           element: "text"
           label: "Tags"
-          help: "Add a tags like this : project, software, mechanics, life"
-          placeholder: "project, software, mechanics, life"
+          help: "Add a tags like this : project software mechanics life"
+          placeholder: "project software mechanics life"
           alterable: true
       - name: "published"
         field:
