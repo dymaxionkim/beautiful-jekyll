@@ -6,7 +6,8 @@ subtitle: Assistive Robotic Vehicle for the Elderly
 date: '2017-01-18'
 bigimg: /img/bigimg21.jpg
 tags: 'project, mechanics'
-image: 'http://deanattali.com/img/blog/beautiful-jekyll.png'
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/22029530/2b05eff6-dd1e-11e6-8233-fd1731614895.png
 ---
 ## Summary
 * Project Name : [SILVER]
