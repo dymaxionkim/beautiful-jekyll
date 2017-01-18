@@ -2,9 +2,10 @@
 layout: post
 published: true
 title: decomposition
-subtitle: Cubic Spline Interpolation with LU Decomposition in Univ., 2000
+subtitle: 'Cubic Spline Interpolation with LU Decomposition in Univ., 2000'
 date: '2000-12-31'
 bigimg: /img/bigimg07.jpg
+tags: software
 ---
 
 ## Summary
