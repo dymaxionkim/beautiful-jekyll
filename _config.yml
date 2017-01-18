@@ -202,15 +202,22 @@ prose:
         field:
           element: "text"
           label: "bigimg"
-          help: "Add a big image's path to your post."
+          help: "Add a bigimg like this : /img/bigimg01.jpg"
           placeholder: "/img/bigimg01.jpg"
           alterable: true
       - name: "image"
         field:
           element: "text"
           label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "A bakground of your post."
+          help: "Add a thumbnail image like this : /img/hello_world.jpeg"
+          placeholder: "/img/hello_world.jpeg"
+          alterable: true
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          help: "Add a tags like this : [a, b]"
+          placeholder: "[a, b]"
           alterable: true
       - name: "published"
         field:
