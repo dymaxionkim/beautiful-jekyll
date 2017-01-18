@@ -6,7 +6,7 @@ subtitle: Assistive Robotic Vehicle for the Elderly
 date: '2017-01-18'
 bigimg: /img/bigimg21.jpg
 tags: 'project, mechanics'
-image: /img/hello_world.jpeg
+image: /img/bigimg21.jpg
 ---
 ## Summary
 * Project Name : [SILVER]
