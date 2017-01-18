@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: MobileRobots
-subtitle: Mobile Robots - Differential, Holonomic ...
+subtitle: 'Mobile Robots - Differential, Holonomic ...'
 date: '2017-01-18'
 bigimg: /img/bigimg20.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/22054161/8699aeec-dd97-11e6-9730-16a4634ce5ea.jpg
+tags: project
 ---
 
 ## Summary
