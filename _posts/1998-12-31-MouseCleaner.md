@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: MouseCleaner
-subtitle: in Univ., 1998
+subtitle: 'in Univ., 1998'
 date: '1998-12-31'
 bigimg: /img/bigimg04.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/21953320/2497934e-da77-11e6-8349-1ba373bb05a4.JPG
+tags: project
 ---
 
 ## Summary
