@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: Manipulators
-subtitle: Articulated, Scara Manipulators
+subtitle: 'Articulated, Scara Manipulators'
 date: '2017-01-18'
 bigimg: /img/bigimg18.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/22054031/235f2096-dd97-11e6-9876-4da33c8c094f.png
+tags: project
 ---
 
 ## Summary
