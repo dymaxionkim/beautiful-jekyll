@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: PocketBot
-subtitle: in Univ., 2001
+subtitle: 'in Univ., 2001'
 date: '2001-12-31'
 bigimg: /img/bigimg09.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/21951873/02fc8674-da52-11e6-9dfc-5808866c7503.jpg
+tags: project
 ---
 
 ## Summary
