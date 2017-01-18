@@ -5,6 +5,7 @@ title: SilverRobot
 subtitle: Assistive Robotic Vehicle for the Elderly
 date: '2017-01-18'
 bigimg: /img/bigimg21.jpg
+tags: [project]
 ---
 ## Summary
 * Project Name : [SILVER]
