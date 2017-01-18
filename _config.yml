@@ -38,6 +38,7 @@ navbar-links:
     - HOSTMATH: "http://www.hostmath.com/"
     - SCI-HUB: "http://sci-hub.bz/"
   SEARCH:
+    - TAGS: "tags/index"
     - SIMPLE: "search/"
     - GOOGLE: "searchGoogle/"
 
