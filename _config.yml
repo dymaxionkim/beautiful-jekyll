@@ -38,7 +38,6 @@ navbar-links:
     - HOSTMATH: "http://www.hostmath.com/"
     - SCI-HUB: "http://sci-hub.bz/"
   SEARCH:
-    - TAGS: "tags/index"
     - SIMPLE: "search/"
     - GOOGLE: "searchGoogle/"
 
@@ -149,7 +148,7 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: true
+link-tags: false
 
 # Exclude these files from production site
 exclude:
