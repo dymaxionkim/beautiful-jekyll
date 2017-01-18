@@ -2,9 +2,12 @@
 layout: post
 published: true
 title: InvertedPendulum
-subtitle: in Univ., 1998
+subtitle: 'in Univ., 1998'
 date: '1998-12-31'
 bigimg: /img/bigimg03.jpg
+image: >-
+  https://cloud.githubusercontent.com/assets/12775748/21951924/bc4e571a-da52-11e6-88f1-7c9dd7492b41.jpg
+tags: project
 ---
 
 ## Summary
