@@ -1,14 +1,14 @@
 ---
 layout: post
 published: true
-title: RCWS
-subtitle: Remote Controlled Weapon System
+title: Manipulators
+subtitle: Articulated, Scara Manipulators
 date: '2017-01-18'
-bigimg: /img/bigimg13.jpg
+bigimg: /img/bigimg18.jpg
 ---
 
 ## Summary
-* Project Name: [TRCWS]
+* Project Name: [ARM] [SCARA] [FST]
 
 ## Pictures
 

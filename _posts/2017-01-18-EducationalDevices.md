@@ -1,14 +1,14 @@
 ---
 layout: post
 published: true
-title: RCWS
-subtitle: Remote Controlled Weapon System
+title: EducationalDevices
+subtitle: Various Educational Devices
 date: '2017-01-18'
-bigimg: /img/bigimg13.jpg
+bigimg: /img/bigimg16.jpg
 ---
 
 ## Summary
-* Project Name: [TRCWS]
+* Project Name: [?]
 
 ## Pictures
 
