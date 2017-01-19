@@ -20,8 +20,8 @@ tags: project
 
 * Rendering
 
-<img width=300 src="https://cloud.githubusercontent.com/assets/12775748/22054081/5c1e7fda-dd97-11e6-9363-9cc15119b4a1.png">
-<img width=300 src="https://cloud.githubusercontent.com/assets/12775748/22054077/5be20528-dd97-11e6-924a-6ba1d44b618f.jpg">
+<img width="300" src="https://cloud.githubusercontent.com/assets/12775748/22054081/5c1e7fda-dd97-11e6-9363-9cc15119b4a1.png">
+<img width="300" src="https://cloud.githubusercontent.com/assets/12775748/22054077/5be20528-dd97-11e6-924a-6ba1d44b618f.jpg">
 
 
 * Parts
