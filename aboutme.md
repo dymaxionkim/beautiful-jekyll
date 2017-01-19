@@ -10,7 +10,7 @@ bigimg: /img/aboutme01.jpg
 * **Job** : Mechanical Engineer / Mechanical Designer
 * **Interested** : Easy Engineering with Free/Open Source Softwares / Dexterous Light-Weight Manipulator
 
-## Big Picture
+## Story
 
 저는 제품설계자 입니다.  신제품을 기획하는데 참여하고, 제품 디자인에도 관여하며, CREO 및 CATIA를 사용하여 3D 설계작업을 하고, 2D 부품 도면을 그리고, 부품목록(BOM)을 작성하고, 시제품을 만들어 시험하고, 양산이 이루어질 수 있도록 관리하는 일을 합니다.  우리나라 완성품 제조업의 전형적인 방식이라고 할 수 있습니다.  반도체 검사장비를 개발하는 회사, 휴대폰과 노트북을 개발하는 회사, 교육용 장비와 서비스 로봇을 개발하는 회사, 그리고 로봇화된 무기를 개발하는 방위산업체를 경험해 보았습니다.  이런 몇몇 직장을 거치면서, 회사마다 다른 문화와 역시 다른 제품개발 철학들도 경험했습니다.  그런데 경력이 15년 이상 넘어가기 시작하면서, 이런 생각이 들더군요.
 
@@ -19,8 +19,7 @@ bigimg: /img/aboutme01.jpg
 4차 산업혁명이니 하는 말이 생기고, IT 분야에서는 새로운 혁신적 도구와 방법들이 하루가 멀다 하고 등장하며, 미국에서는 실업문제 해결책으로 제조업을 부활하겠다는 움직임도 보이고, 중국에서는 엄청난 규모와 속도로 산업이 발전하고 있는데...  우리나라에서는 사다리 걷어차기에 몰두하여 계서적 사회구조를 고착화시키려는 관료/재벌의 엘리트 카르텔이 점점 굳어져가고, 경제개발 시대의 주역이었던 노년층 어르신들은 새로운 형태의 산업으로 바꿔야만 하는 시대의 아젠다를 전혀 이해하지도 못하고 있으며, 20대 젊은 세대는 무한경쟁에 내몰려 자라와 이기주의와 배금주의에 경도된 모습을 꽤 많이 보았습니다.  결국 변화에 적응하지 못하면 나라가 망하겠구나 하는 결론 외에는 찾지 못하겠더군요.  특히 과학 기술 분야에서 관료나 정치인들이 내놓는 방법들은 뭐 말할 가치도 없을 정도로 한심하지요.  물론 하챦은 저같은 사람이 망해가는 나라를 살릴 능력은 당연히 없지만, 사과나무 하나 심는 일은 해야 하지 않냐 하는 생각은 듭니다.
 
 
-
-## Career
+## Projects
 * 2015~2016 (네번째 직장)
   - [TRCWS](/beautiful-jekyll/2017-01-17-RCWS)
   - [SRCWS](/beautiful-jekyll/2017-01-18-SRCWS)
@@ -55,5 +54,17 @@ bigimg: /img/aboutme01.jpg
   - [MouseCleaner](/beautiful-jekyll/1998-12-31-MouseCleaner)
   - [Unmanned Cart](/beautiful-jekyll/1999-12-31-UnmannedCart)
   - [Motion Control Camera System](/beautiful-jekyll/1999-12-31-MotionControl)
+
+
+## Educations
+* [2016, 기계공학도를 위한 개인용 오픈소스 엔지니어링 툴체인을 완성하는 방법에 관한 위키](http://dymaxionkim.github.io/UbuntuBang/mdwiki_UbuntuBang/index.html#!index.md)
+* [2016, Open-Source FEM, OJT in Dodaam](https://dymaxionkim.github.io/Education/index.html#!index.md)
+* 2013, 태국 교수 연수, ED
+* 2013, 중학생 강의
+* [2011, 기초 로보틱스 세미나, UST in KNU](https://drive.google.com/open?id=0B3VzdmodvgcIeDIwVVUzbnB6dFk)
+* 2009, IT융합 지능로봇 현장 맞춤형 교육, PIRO : [1](https://drive.google.com/open?id=0B3VzdmodvgcISk5kVG1DcFVTMm8)  [2](https://drive.google.com/open?id=0B3VzdmodvgcIaHRsdkpXX3VzWnc)  [3](https://drive.google.com/open?id=0B3VzdmodvgcIYU5UUHNLbWlkM1E)  [4](https://drive.google.com/open?id=0B3VzdmodvgcIQUs2dFVGc1V2c2s)  [5](https://drive.google.com/open?id=0B3VzdmodvgcIZmNWLVQ2VUNVMUU)
+* [2009, 태국 교수 연수, ED](https://drive.google.com/open?id=0B3VzdmodvgcIdkd4VzgyWnB5Qkk)
+* [2009, 지능형로봇 요소기술의 이해, 차세대 지능형 인력양성교육, 지식경제부](https://drive.google.com/open?id=0B3VzdmodvgcIS09ORV82OVlwTms)
+
 
 <center> <img src="https://cloud.githubusercontent.com/assets/12775748/11586629/cc78e47e-9ab7-11e5-8ed8-0a12610c0988.png"> </center>
