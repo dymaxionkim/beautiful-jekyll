@@ -1,8 +1,11 @@
 #!/usr/bin/expect
 # Update to Github
 spawn /usr/bin/git pull
+sleep 1
 spawn /usr/bin/git add --all
+sleep 1
 spawn /usr/bin/git commit -m "Push from Local"
+sleep 1
 spawn /usr/bin/git push -u origin master
 expect -re "Username for 'https://github.com':"
 sleep 1
@@ -11,4 +14,3 @@ send "dymaxionkim\n"
 #sleep 1
 #send "비밀번호\n"
 interact
-
