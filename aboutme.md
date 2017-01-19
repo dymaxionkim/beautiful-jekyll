@@ -56,4 +56,4 @@ bigimg: /img/aboutme01.jpg
   - [Unmanned Cart](/beautiful-jekyll/1999-12-31-UnmannedCart)
   - [Motion Control Camera System](/beautiful-jekyll/1999-12-31-MotionControl)
 
-<center> ![robot-1107_v02_132x100](https://cloud.githubusercontent.com/assets/12775748/11586629/cc78e47e-9ab7-11e5-8ed8-0a12610c0988.png) </center>
+<center> <img src="https://cloud.githubusercontent.com/assets/12775748/11586629/cc78e47e-9ab7-11e5-8ed8-0a12610c0988.png"> </center>
