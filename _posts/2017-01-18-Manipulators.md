@@ -16,6 +16,9 @@ tags: project
 
 ## [Articulated]
 
+* Low Cost
+* Educational Perpose
+
 ![img_20141024_095444](https://cloud.githubusercontent.com/assets/12775748/22054024/1ec411cc-dd97-11e6-9226-8972ea3519f4.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hWb8-fZVZQ" frameborder="0" allowfullscreen></iframe>
@@ -23,6 +26,9 @@ tags: project
 
 
 ## [SCARA]
+
+* Low Cost
+* Educational Perpose
 
 ![1](https://cloud.githubusercontent.com/assets/12775748/22054031/235f2096-dd97-11e6-9876-4da33c8c094f.png)
 
@@ -35,6 +41,8 @@ tags: project
 
 
 ## [FST]
+
+* Prototype for EOD (Military)
 
 ![dsc05313](https://cloud.githubusercontent.com/assets/12775748/22054034/2a652c50-dd97-11e6-8899-be94d79648c2.JPG)
 ![dsc05314](https://cloud.githubusercontent.com/assets/12775748/22054035/2a8a2dfc-dd97-11e6-91aa-0b5c5f4da796.JPG)

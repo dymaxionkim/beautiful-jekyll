@@ -52,4 +52,4 @@ image: >-
 
 ## Poster
 
-![20131023_silver_urai_](https://cloud.githubusercontent.com/assets/12775748/22029505/2a4d33e4-dd1e-11e6-9e10-a39c314f748d.png)
+<img border=1 src="https://cloud.githubusercontent.com/assets/12775748/22029505/2a4d33e4-dd1e-11e6-9e10-a39c314f748d.png">
