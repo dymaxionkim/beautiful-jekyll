@@ -76,7 +76,7 @@ bigimg: /img/aboutme01.jpg
   - PTC CREO : Very good
   - Dassault CATIA V5 : Good
   - DraftSight (AutoCAD alternatives) : Very good
-  - FreeCAD (Free software) : Not bad
+  - FreeCAD (Free software in Linux desktop) : Not bad
 * __CAE__
   - ability
     + Linear static, Transient, Buckling, Eigenmode, Harmonic ...
@@ -99,5 +99,18 @@ bigimg: /img/aboutme01.jpg
   - Julia : Numerical design & analysis
   - Favorate Editor : Github Atom & Jupyter Notebook
 
+
+## Interested in
+* Gear design for robots
+  - Involute Profile
+  - Cycloid Profile
+  - New Reducer Design : Harmonic drive, Mini Cycloidal drive, Ball reducer, Magnetic reducer ...
+* Opensource CAE
+  - No cost !
+* New type Manipulators
+  - Lightweight
+  - Modulized
+  - Affordable
+  - Beautiful
 
 <center> <img src="https://cloud.githubusercontent.com/assets/12775748/11586629/cc78e47e-9ab7-11e5-8ed8-0a12610c0988.png"> </center>
