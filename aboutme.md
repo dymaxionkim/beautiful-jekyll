@@ -67,4 +67,37 @@ bigimg: /img/aboutme01.jpg
 * [2009, 지능형로봇 요소기술의 이해, 차세대 지능형 인력양성교육, 지식경제부](https://drive.google.com/open?id=0B3VzdmodvgcIS09ORV82OVlwTms)
 
 
+## Skills
+* __CAD__
+  - ability
+    + High quality Modeling with complex & freeformed shapes
+    + Various experiences
+    + Robots, Consumers, Military ...
+  - PTC CREO : Very good
+  - Dassault CATIA V5 : Good
+  - DraftSight (AutoCAD alternatives) : Very good
+  - FreeCAD (Free software) : Not bad
+* __CAE__
+  - ability
+    + Linear static, Transient, Buckling, Eigenmode, Harmonic ...
+    + Non-linear Multi-bodies Contact
+    + Thermal conduction, convection, radiation, advection
+    + Fluidics with Navier-Stokes equation for laminar, boussinesq approximation, turbulance with k-epsilon model
+    + Acoustics with Helmholtz equation
+  - CREO mechanica, dynamics
+  - CATIA analysis
+  - Opensource Mesher : Netgen, Gmsh, Salome Platform
+  - Opensource Solver : Elmer, CalculiX, Z88 Aurora, Code_Aster
+  - Opensource Post-processor : Paraview, Gmsh
+* __CODING__
+  - ability
+    + Numerical design (ex: gearbox & teeth)
+    + System analysis
+  - VCS : Github & git
+  - C with gcc : Standalone executables
+  - GNU Octave (MATLAB alternatives) : Linear algebra & Control system
+  - Julia : Numerical design & analysis
+  - Favorate Editor : Github Atom & Jupyter Notebook
+
+
 <center> <img src="https://cloud.githubusercontent.com/assets/12775748/11586629/cc78e47e-9ab7-11e5-8ed8-0a12610c0988.png"> </center>
