@@ -61,7 +61,7 @@ bash Anaconda3-4.2.0-Linux-x86_64.sh
 ## Anaconda3 업데이트 및 셋팅
 * Anaconda의 Python 패키지들을 전부 최신버전으로 업데이트하려면 다음 명령을 쓰면 된다.
 
-```
+```bash
 conda update conda
 conda update anaconda
 ```
@@ -69,7 +69,7 @@ conda update anaconda
 ## Jupyter를 위한 Python 환경 생성
 * 고립된 Python 환경을 생성하여면 다음과 같은 식으로 하면 된다.  본 예에서는 JUPYTER라는 이름의 Python 환경을 만들고, 그 환경을 Activate 시키는 것이다.
 
-```
+```bash
 conda create --name JUPYTER ipython
 source activate JUPYTER
 ```
@@ -77,7 +77,7 @@ source activate JUPYTER
 ## Jupyter 설치
 * 기본적인 패키지는 이미 Anaconda에 들어가 있지만, 확실히 하기 위해 Jupyter 설치 명령을 준다.
 
-```
+```bash
 conda install jupyter
 ```
 
@@ -92,7 +92,7 @@ conda install jupyter
 * Julia 언어를 시스템에 설치하고, 이것을 Jupyter에서도 사용할 수 있도록 커널을 설치해 보자.
 * 저장소를 등록하고, 설치.
 
-```
+```bash
 sudo add-apt-repository ppa:staticfloat/juliareleases
 sudo add-apt-repository ppa:staticfloat/julia-deps
 sudo apt-get update
@@ -101,13 +101,13 @@ sudo apt-get install julia
 
 * 기본적인 Julia 패키지 설치
 
-```
+```bash
 julia
 ```
 
 실행한 후, Julia 안에서 다음 명령을 넣어서 Julia 언어에서 사용할 확률이 가장 높은 모듈들을 추가 설치한다.
 
-```
+```julia
 Pkg.init()
 Pkg.add("Jewel")
 Pkg.add("Images")
@@ -119,7 +119,7 @@ quit()
 
 * 패키지 설치 도중에 빌드 에러가 발생할 경우, 다음과 같이 의존성 있는 것들을 추가 설치해 주면 해결될 확률이 높다. (어떤 모듈의 경우에는 설치하면서 동시에 Build 작업이 진행되는 경우가 있다.)
 
-```
+```bash
 sudo apt-get install build-essential cmake
 ```
 
@@ -128,7 +128,7 @@ sudo apt-get install build-essential cmake
 * 이번에는 GNU Octave를 시스템에 설치하고, 이것을 Jupyter에서도 사용할 수 있도록 커널을 설치해 보자.
 * 저장소를 등록하고, 설치.
 
-```
+```bash
 sudo add-apt-repository ppa:octave/stable
 sudo apt-get update
 sudo apt-get install octave
@@ -136,25 +136,25 @@ sudo apt-get install octave
 
 * Octave 잘 실행되는지 확인
 
-```
+```bash
 octave-cli
 ```
 
 * Octave GUI 실행 확인
 
-```
+```bash
 octave
 ```
 
 * Octave GUI 실행 실패시 조치 (QT 설정파일 소유권을 root에서 현재 사용자로 변경) : 현행 배포한의 버그.
 
-```
+```bash
 sudo chown -hR 계정:계정 ~/.config/octave
 ```
 
 * 커널 설치 (sudo 불필요)
 
-```
+```bash
 pip install octave_kernel
 python -m octave_kernel.install
 ```
@@ -164,7 +164,7 @@ python -m octave_kernel.install
 * 이번에는 Bash를 시스템에 설치하고, 이것을 Jupyter에서도 사용할 수 있도록 커널을 설치해 보자.
 * 커널 설치
 
-```
+```bash
 pip install bash_kernel
 python -m bash_kernel.install
 ```
@@ -174,13 +174,13 @@ python -m bash_kernel.install
 * 참고 : https://github.com/brendan-rius/jupyter-c-kernel
 * C 커널 설치
 
-```
+```bash
 pip install jupyter-c-kernel
 ```
 
 * 커널스펙 설정
 
-```
+```bash
 cd ~
 git clone https://github.com/brendan-rius/jupyter-c-kernel.git
 mkdir ~/.local/share/jupyter/kernels/c_spec
@@ -192,7 +192,7 @@ cp ./jupyter-c-kernel/c_spec/kernel.json ~/.local/share/jupyter/kernels/c_spec/k
 ## 설치된 커널들 이상없는지 확인하기
 * 아래 명령은 치면, 위에서 설치했던 커널들의 목록을 볼 수 있다.
 
-```
+```bash
 jupyter kernelspec list
 ```
 
@@ -200,7 +200,7 @@ jupyter kernelspec list
 ## Jupyter Notebook 작업 디렉토리 생성
 * 아무데서나 실행할 수는 없으므로, 작업할 디렉토리를 따로 만들어주는게 보안상 좋겠다.  이왕이면 Github와 연동시키기 좋도록 한다.
 
-```
+```bash
 mkdir ~/github/My-Jupyter-Notebooks
 ```
 
@@ -214,33 +214,33 @@ mkdir ~/github/My-Jupyter-Notebooks
 * [참고 1](http://jupyter-notebook.readthedocs.org/en/latest/public_server.html#running-a-public-notebook-server), [참고 2](http://jupyter-notebook.readthedocs.org/en/latest/public_server.html#securing-a-notebook-server)
 * 새로운 Jupyter Notebook 설정 프로파일을 생성.
 
-```
+```bash
 jupyter notebook --generate-config
 ```
 
 * 그러면 `/home/dong/.jupyter/jupyter_notebook_config.py` 파일이 새로 생겨난 것을 확인.
 * 한편, 로그인을 위한 패스워드 해쉬코드를 만든다.  이와 관련된 기본적인 파이썬 함수가 있으므로, 파이썬 상태에서 이 함수를 이용해서 해쉬코드를 만든다.  우선 터미널에 `python` 쳐서 파이썬 REPL로 들어간 다음,
 
-```
+```python
 from notebook.auth import passwd
 passwd()
 ```
 
 위와 같이 명령을 때려주면 비밀번호를 치라고 나오는데 확인차 2번 쳐 주면 해쉬코드로 된 비밀번호 코드가 나온다.  해쉬코드를 긁어다 복사해 두거나 메모해 둔다.  그리고 python 콘솔을 빠져나오려면 
 
-```
+```python
 exit()
 ```
 
 * 설정 프로파일을 편집기로 열어서 내용 확인. (대략 500줄을 좀 넘어가는 코드이고, 대부분 주석)
 
-```
+```bash
 nano /home/계정/.jupyter/jupyter_notebook_config.py
 ```
 
 * 편집기에서 다음 내용으로 해당 부분을 수정해 준다. 이중에서 포트 번호는 원하는걸로 바꾸면 되지만, 여기서는 8888로 하자.  각 행의 맨 앞에 주석기호 `#`의 유무를 잘 비교해서 확인하자.
 
-```
+```python
 c.NotebookApp.ip = '*'
 c.NotebookApp.port = 8888
 c.NotebookApp.notebook_dir = u'/home/계정/github/My-Jupyter-Notebooks'
@@ -250,9 +250,11 @@ c.NotebookApp.open_browser = False
 `
 c.NotebookApp.password = u'sha1:67c9e6어쩌구저쩌구71089e11aed'
 ```
+
 * 완료되었으면 해당 편집기를 저장하고 종료.
 * 서버 환경에 따라 방화벽으로 막혀 있을 수 있으므로 해당 포트를 뚫어준다.
-```
+
+```bash
 sudo ufw allow 8888
 ```
 
@@ -260,19 +262,19 @@ sudo ufw allow 8888
 ## Jupyter Notebook 실행 테스트
 * 다음 명령을 주면 실행된다.
 
-```
+```bash
 jupyter notebook
 ```
 
 * 자동으로 웹브라우저가 실행되지 않도록 하려면 이렇게 한다.
 
-```
+```bash
 jupyter notebook --no-browser
 ```
 
 * 특정한 디렉토리를 루트로 삼아 실행되도록 하려면 이렇게 한다.
 
-```
+```bash
 jupyter notebook --notebook-dir='디렉토리경로'
 ```
 
@@ -290,7 +292,7 @@ http://아이피주소:8888
 * 개인 서버에서 돌리려면 이런식으로 자동 스타트 설정을 해 주면 편리할 것이다.
 * 쉘 스크립트를 편집해서 만든다.
 
-```
+```bash
 nano ~/Start_Jupyter.sh
 ```
 
@@ -303,31 +305,31 @@ nano ~/Start_Jupyter.sh
 
 * 만든 쉘 스크립트를 실행 가능하도록 속성을 준다.
 
-```
+```bash
 chmod +x ~/Start_Jupyter.sh
 ```
 
 * 다음과 같이 rc.local 파일을 열어서 편집한다.
 
-```
+```bash
 sudo nano /etc/rc.local
 ```
 
 * 다음 내용을 추가한 후 저장하고 편집기 종료.
 
-```
+```bash
 sudo -u 계정 /home/계정/Start_Jupyter.sh
 ```
 
 * 서버 재부팅
 
-```
+```bash
 sudo reboot now
 ```
 
 * 만일 제대로 작동을 안한다면 다음 명령을 줘 본다.  ([참고](http://askubuntu.com/questions/765120/after-upgrade-to-16-04-lts-rc-local-not-executing-command/770033#770033))
 
-```
+```bash
 sudo systemctl enable rc-local.service
 ```
 
@@ -337,7 +339,7 @@ sudo systemctl enable rc-local.service
 * 다만 여기서는 표준적인 Jupyter Notebook Extensions를 추가로 설치 시도한다.
 * 참고 : <https://github.com/ipython-contrib/jupyter_contrib_nbextensions>
 
-```
+```bash
 conda install -c conda-forge jupyter_contrib_nbextensions
 ```
 
@@ -349,7 +351,7 @@ conda install -c conda-forge jupyter_contrib_nbextensions
 * jupyterthemes : https://github.com/dunovank/jupyter-themes
 * 설치는 다음 한 줄이면 끝난다.
 
-```
+```bash
 pip install jupyterthemes
 ```
 
@@ -364,7 +366,7 @@ chesterish
 
 * 이 중에서 grade3가 바탕이 흰 색의 테마이고, 나머지는 어두운 색이다.  시험삼아 다음 명령을 하나씩 줘 보자.
 
-```
+```bash
 jt -t grade3 -T -N
 ```
 
@@ -372,7 +374,7 @@ jt -t grade3 -T -N
 * 강제로 원상복귀 시키려면, 원래의 오리지널 css 파일을 만들어서 집어넣어주면 될 것이다.
 * `~/.jupyter/custom/custom.css` 파일을 만들고 편집기로 다음 내용을 집어넣으면 원래 오리지널 테마로 복원된다.
 
-```
+```css
 .rendered_html pre, .rendered_html code, pre, .CodeMirror, .prompt {
   font-family: 나눔고딕코딩, Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;;
 }
@@ -421,19 +423,19 @@ blockquote {
 * 개인적으로 사용해 보니 확실히 Notebook 보다 더 편리하고 기능이 더 많다.
 * conda-forge 패키지 저장소에서도 제공하고 있기 때문에 설치 방법은 간단하다.
 
-```
+```bash
 conda install -c conda-forge jupyterlab
 ```
 
 * 설치 후, 다음 명령으로 실행한다.
 
-```
+```bash
 julia lab
 ```
 
 * 그러면 주소는 다음과 같이 나온다.
 
-```
+```bash
 http://localhost:8888/lab
 ```
 
