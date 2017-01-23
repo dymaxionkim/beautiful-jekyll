@@ -43,14 +43,14 @@ tags: software
 * 다운로드 사이트 : <https://www.continuum.io/downloads#linux>
 * 위 사이트에서 다운로드 할 버전의 주소를 복사한 다음, 아래와 같이 wget으로 NAS에 다운로드 받아도 된다.
 
-```
+```bash
 cd ~
 wget https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
 ```
 
 * 다운로드 받은 설치파일을 실행한다.
 
-```
+```bash
 bash Anaconda3-4.2.0-Linux-x86_64.sh
 ```
 
