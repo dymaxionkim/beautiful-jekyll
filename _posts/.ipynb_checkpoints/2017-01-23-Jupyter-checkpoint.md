@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Jupyter
-subtitle: "Jupyter - 과학자를 위한 40가지 이상의 프로그래밍 언어를 지원하는 오픈소스 대화식 환경"
+subtitle: "과학자를 위한 40가지 이상의 프로그래밍 언어를 지원하는 오픈소스 대화식 환경"
 date: '2017-01-23'
 bigimg: /img/bigimg24.jpg
 image: >-
