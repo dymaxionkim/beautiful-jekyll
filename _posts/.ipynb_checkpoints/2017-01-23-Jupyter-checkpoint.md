@@ -412,7 +412,7 @@ blockquote {
 * 이제까지 설치해서 사용하는 환경은 바로 'Jupyter Notebook'이다.
 * 그런데 이 UI가 마음에 안 드는지, 한 그룹에서 새롭게 Jupyter Lab을 개발하고 있다.
 
-~[JupyterLab](https://github.com/jupyterlab/jupyterlab/raw/master/jupyter-plugins-demo.gif)
+![JupyterLab](https://github.com/jupyterlab/jupyterlab/raw/master/jupyter-plugins-demo.gif)
 
 * 현재 알파 릴리즈되어 설치해서 작동 시켜볼 수도 있다.
 * 다만 아직 완전하게 기능구현,최적화,버그 등을 모두 잡은 상태는 아닌 것 같다.
