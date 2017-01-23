@@ -13,6 +13,9 @@ tags: software
 ## Jupyter?
 * 뭔지 궁금하면 [공식 홈페이지](http://jupyter.org/) 가서 보자.
 
+![Jupyter Logo](https://cloud.githubusercontent.com/assets/12775748/22197598/0e218c02-e196-11e6-8deb-7a829ffdd0b6.png)
+
+
 ## Jupyter를 사용하면 뭐가 좋아지나?
 * 웹브라우저에서 모든 작업이 이루어져 편리해진다.
 * 코딩과 문서화 작업을 한꺼번에 할 수 있다.
