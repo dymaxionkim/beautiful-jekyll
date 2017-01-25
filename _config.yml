@@ -23,7 +23,9 @@ description: Dymaxionkim's Personal Blog
 
 # List of links in the navigation bar
 navbar-links:
-  ABOUT: "aboutme"
+  ABOUT:
+    - ABOUT: "aboutme"
+    - SLIDES: "https://slides.com/dymaxionkim"
   LINK:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
