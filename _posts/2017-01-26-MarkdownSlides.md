@@ -148,9 +148,9 @@ cd ~/markdownslides
 
 -----
 
-* 연습 예제 : <https://dymaxionkim.github.io/My_Slides/2017/2017-01-26_MarkdownSlides/export/2017-01-26_MarkdownSlides-reveal-online-slides.html>
+* 연습 예제 : <https://dymaxionkim.github.io/My_Slides/2017/2017-01-26_MarkdownSlides/export/2017-01-26_MarkdownSlides-reveal-slides.html>
 
-<iframe src="https://dymaxionkim.github.io/My_Slides/2017/2017-01-26_MarkdownSlides/export/2017-01-26_MarkdownSlides-reveal-online-slides.html" width="640" height="480">
+<iframe src="https://dymaxionkim.github.io/My_Slides/2017/2017-01-26_MarkdownSlides/export/2017-01-26_MarkdownSlides-reveal-slides.html" width="640" height="480">
 
 # 끝!
 
