@@ -146,6 +146,12 @@ cd ~/markdownslides
 - 그리고, `#`, `##`, `-`, `(빈칸4)-`으로 제목 단계를 건너뛰지 말고 반드시 준수한다.
 
 
+-----
+
+* 연습 예제 : <https://dymaxionkim.github.io/My_Slides/2017/2017-01-26_MarkdownSlides-reveal-online-slides.html>
+
+<iframe src="https://dymaxionkim.github.io/My_Slides/2017/2017-01-26_MarkdownSlides-reveal-online-slides.html" width="640" height="480">
+
 # 끝!
 
 
