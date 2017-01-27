@@ -10,7 +10,6 @@ image: >-
 tags: software
 ---
 
-
 # Markdown Slides?
 
 ![markdown-syntax-language](https://cloud.githubusercontent.com/assets/12775748/22331775/94703f16-e410-11e6-9bdc-53c801f470e4.png)

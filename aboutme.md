@@ -6,9 +6,9 @@ bigimg: /img/aboutme01.jpg
 ---
 
 ## Who
-* **Name** : Kim,Dong-ho
-* **Job** : Mechanical Engineer / Mechanical Designer
-* **Interested** : Easy Engineering with Free/Open Source Softwares / Dexterous Light-Weight Manipulator
+* __Name__ : Kim,Dong-ho
+* __Job__ : Mechanical Engineer / Mechanical Designer
+* __[Portfolio](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html)__
 
 ## Story
 
