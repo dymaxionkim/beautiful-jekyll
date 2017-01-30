@@ -8,7 +8,7 @@ bigimg: /img/aboutme01.jpg
 ## Who
 * __Name__ : Kim,Dong-ho
 * __Job__ : Mechanical Engineer / Mechanical Designer
-* __[JSON Resume](https://dymaxionkim.github.io/My_Slides/2017/2017-01-30_Resume/resume_elegant-leonth.html)__ : elegant-leonth theme
+* __[JSON Resume](https://dymaxionkim.github.io/My_Slides/2017/2017-01-30_Resume/resume_onepage.html)__
 * __[Portfolio Slides](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html)__
 
 ## Story
