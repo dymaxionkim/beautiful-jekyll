@@ -199,7 +199,7 @@ prose:
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
           alterable: true
-      - name: "BigImg"
+      - name: "bigimg"
         field:
           element: "text"
           label: "bigimg"
