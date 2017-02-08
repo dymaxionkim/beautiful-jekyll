@@ -88,7 +88,7 @@ exit
 
 ## Purge.bat을 컨텍스트 메뉴에 등록하기
 
-* 윈도우 탐색기에서, 특정 작업 폴터 아이콘에서 마우스 오른쪽 버튼을 누르면 나오는 컨텍스트 메뉴에 Purge를 추가하려면...
+* 윈도우 탐색기에서, 특정 작업 폴더 아이콘에서 마우스 오른쪽 버튼을 누르면 나오는 컨텍스트 메뉴에 Purge를 추가하려면...
 
 * cmd를 관리자 권한으로 실행한다.
 
@@ -96,7 +96,7 @@ exit
 단축키 : WindowsKey+X, A
 ```
 
-* 다음 명령을 쳐 넣는다. (purge.bat의 경로명은 확인후 다르면 수정할 것)
+* 다음 명령을 쳐 넣는다. (경로명은 확인후 다르면 수정할 것)
 
 ```
 reg add "HKEY_CLASSES_ROOT\Folder\shell\Purge" /ve /d "Purge"
@@ -114,7 +114,7 @@ reg add "HKEY_CLASSES_ROOT\Folder\shell\Purge\command" /ve /d "C:\Windows\system
 E:\PTC\CREO3\Creo 3.0\M010\Parametric\bin\doClear.bat
 ```
 
-* 윈도우 탐색기에서, 특정 작업 폴터 아이콘에서 마우스 오른쪽 버튼을 누르면 나오는 컨텍스트 메뉴에 doClear를 추가하려면...
+* 윈도우 탐색기에서, 특정 작업 폴더 아이콘에서 마우스 오른쪽 버튼을 누르면 나오는 컨텍스트 메뉴에 doClear를 추가하려면...
 
 * cmd를 관리자 권한으로 실행한다.
 
@@ -122,7 +122,7 @@ E:\PTC\CREO3\Creo 3.0\M010\Parametric\bin\doClear.bat
 단축키 : WindowsKey+X, A
 ```
 
-* 다음 명령을 쳐 넣는다. (purge.bat의 경로명은 확인후 다르면 수정할 것)
+* 다음 명령을 쳐 넣는다. (경로명은 확인후 다르면 수정할 것)
 
 ```
 reg add "HKEY_CLASSES_ROOT\Folder\shell\doClear" /ve /d "doClear"
