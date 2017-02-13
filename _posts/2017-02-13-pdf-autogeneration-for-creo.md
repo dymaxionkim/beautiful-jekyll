@@ -189,7 +189,7 @@ setx ParametricPath "E:\PTC\CREO3\Creo 3.0\M010\Parametric\bin"
 * 유의사항
   - 작업폴더에 `PDF`, `DXF`, `DWG` 폴더가 생성되면서 그 안에 각 도면파일들이 포멧별로 저장된다.
   - 이때 기존의 `PDF`, `DXF`, `DWG`가 남아있을 경우 전부 싹 다 먼저 지우고 새로 생성하기 때문에 주의하도록 한다.
-  - `D3_drw2pdfdxfdwg` 실행중에 Creo가 뜨면서 Trail로 순차적인 작업이 이루어지는 과정을 볼 수 있는데, 만약 이것을 중도에 준단시키고 싶다면, 제일 확실한 방법은 작업관리자에서 `xtop.exe` 프로세스를 강제종료시키는 것이다.
+  - `D3_drw2pdfdxfdwg` 실행중에 Creo가 뜨면서 Trail로 순차적인 작업이 이루어지는 과정을 볼 수 있는데, 만약 이것을 중도에 중단시키고 싶다면, 제일 확실한 방법은 작업관리자에서 `xtop.exe` 프로세스를 강제종료시키는 것이다.
 * 테스트로 이것을 실행해 봤을 때, 다음 현상을 볼 수 있었다.
   - 109개의 부품도면을 작업시킬 때, 소요시간은 대략 20분 정도 걸린다.
   - CPU 코어는 당연하겠지만 1개만 점유한다.
@@ -413,3 +413,8 @@ echo JOB IS FINISHED!
 
 REM exit
 ```
+
+
+## 다운로드
+* <https://github.com/dymaxionkim/CREO3_STARTUP/releases/tag/CREO3_STARTUP_V02>
+
