@@ -6,7 +6,7 @@ date: '2017-03-04'
 bigimg: /img/bigimg34.jpg
 tags: software
 subtitle: 'Would-be PDM : A light open sources software to manage CAD files through svn using tortoise'
-image: 'https://protoplm.com/st/img/logo-small.png'
+image: 'https://avatars0.githubusercontent.com/u/6161312?v=3&s=460'
 ---
 ## Would-be PDM
 * http://radiorisonanza.wixsite.com/wouldbepdm
