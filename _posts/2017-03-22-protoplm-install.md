@@ -7,6 +7,7 @@ date: '2017-03-22'
 image: >-
   https://cloud.githubusercontent.com/assets/12775748/24198689/35818e8c-0f4a-11e7-999e-3b5cf82e15ff.png
 tags: software
+bigimg: /img/bigimg35.jpg
 ---
 ## 개요
 * ProtoPLM을 설치하는 순서를 기술해 본다.
@@ -252,9 +253,3 @@ http://127.0.0.1/repo/health
 * 이제까지 여러가지 오픈소스 PLM을 오랫동안 찾아 헤메었는데, ProtoPLM이 제일 괜챦은 것 같다.
 * 기타 다른 것으로는 OpenPLM, DocDoku 같은 것들이 있었는데, 이것들은 파이썬 쟝고 및 Java 기반이라 너무 심하게 복잡했다.  사실 따지고 보면 이 작고 가벼운 ProtoPLM보다 엄청나게 좋고 뭐 그렇지도 않다.
 * 그 외에 인상적인 것으로는 [PLMAPI](https://plmapi.wordpress.com/)라는게 있었다.  PLM 기능을 할 수 있도록 자유롭게 웹앱을 만들수 있도록 준비된 API 형태의 코드인데...  나는 개발자가 아니고 사용자에 가까울 뿐만 아니라, 웹앱을 개발할 만큼 한가한 상황도 아닌지라 흥미는 땡기지만 활용을 포기했다.  뭐 그래도 이게 정말 쓸만 하다면, 기업마다 커스텀으로 빠르게 간이 PLM을 개발할 때 프레임워크 처럼 사용할 수도 있겠구나 싶었다.
-
-
-
-
-
-
