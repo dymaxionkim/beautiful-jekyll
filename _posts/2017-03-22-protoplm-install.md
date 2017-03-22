@@ -13,6 +13,8 @@ bigimg: /img/bigimg35.jpg
 * ProtoPLM을 설치하는 순서를 기술해 본다.
 * 중소기업 또는 개발팀 정도 단위에서 개발 결과물을 생산이관시켜줄 때 이걸 사용하면 생산성을 크게 높일 수 있다고 생각된다.
 * PLM 하면 보통 도입비용만 수억원~수십억원짜리 대형 프로젝트 아니냐 하는 선입견을 버리기만 하면 된다.
+* 사용법은 어렵지 않고, 자세한 설명은 해당 홈페이지의 [FAQ](https://protoplm.com/faq.html) 및 [Blog](http://blog.protoplm.com/)를 읽어보면 대부분 파악 가능하다.
+* [데모 사이트](https://protoplm.com/repo/login)에서 간단히 연습해 보면서 설치 전에 먼저 감을 잡아 볼 수 있다.
 
 
 ## Environment
