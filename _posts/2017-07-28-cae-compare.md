@@ -3,7 +3,7 @@ layout: post
 published: true
 title: CAE_Compare
 subtitle: >-
-  Comparing for Open-Source CAE Softwares : CalculiX, Code_Astere, Elmer, Z88
+  Comparing for Open-Source CAE Softwares : CalculiX, Code_Aster, Elmer, Z88
   Aurora
 date: '2017-07-28'
 bigimg: /img/bigimg36.jpg
