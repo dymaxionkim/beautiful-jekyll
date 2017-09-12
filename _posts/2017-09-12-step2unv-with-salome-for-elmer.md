@@ -311,5 +311,11 @@ exit 0
 
 ## 122개의 파트로 구성된 어셈블리의 자동 매쉬 생성 예
 
+* 파트수가 많기 때문에 생성시간이 상당히 걸리는 것을 확인.
+
 ![20170913_802x635](https://user-images.githubusercontent.com/12775748/30353205-904c11fe-985f-11e7-8ffb-47b3e0595bc2.png)
+
+* 파트간의 접촉면(Intersect)을 별도의 면그룹(Surface group)으로 생성한 것을 확인.
+
+![20170913_802x635](https://user-images.githubusercontent.com/12775748/30353349-4396c506-9860-11e7-895a-d9ddab504c1f.png)
 
