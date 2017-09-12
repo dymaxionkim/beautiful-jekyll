@@ -233,18 +233,18 @@ for fGROUP in range(0,len(MGROUP_FACES)):
 #################################################
 MGROUP_CUTS = []
 for fGROUP in range(0,len(MGROUP_FACES)):
+	aCriteria = []
+	aCriterion = smesh.GetCriterion(SMESH.FACE,SMESH.FT_BelongToMeshGroup,SMESH.FT_Undefined,MGROUP_FACES[fGROUP],SMESH.FT_Undefined,SMESH.FT_LogicalAND)
+	aCriteria.append(aCriterion)
 	for fGROUP2 in range(0,len(MGROUP_INTERSECTS)):
-		aCriteria = []
-		aCriterion = smesh.GetCriterion(SMESH.FACE,SMESH.FT_BelongToMeshGroup,SMESH.FT_Undefined,MGROUP_FACES[fGROUP],SMESH.FT_Undefined,SMESH.FT_LogicalAND)
-		aCriteria.append(aCriterion)
 		aCriterion = smesh.GetCriterion(SMESH.FACE,SMESH.FT_BelongToMeshGroup,SMESH.FT_Undefined,MGROUP_INTERSECTS[fGROUP2],SMESH.FT_LogicalNOT)
 		aCriteria.append(aCriterion)
-		aFilter = smesh.GetFilterFromCriteria(aCriteria)
-		aFilter.SetMesh(MESH.GetMesh())
-		info = []
-		info = smesh.GetMeshInfo(aFilter)
-		if info!=smesh.GetMeshInfo(MGROUP_FACES[fGROUP]) and info.values()[10]:
-			MGROUP_CUTS.append( MESH.GroupOnFilter( SMESH.FACE, 'CUT{0}'.format(fGROUP+1), aFilter ) )
+	aFilter = smesh.GetFilterFromCriteria(aCriteria)
+	aFilter.SetMesh(MESH.GetMesh())
+	info = []
+	info = smesh.GetMeshInfo(aFilter)
+	if info!=smesh.GetMeshInfo(MGROUP_FACES[fGROUP]) and info.values()[10]:
+		MGROUP_CUTS.append( MESH.GroupOnFilter( SMESH.FACE, 'CUT{0}'.format(fGROUP+1), aFilter ) )
 
 
 #################################################
@@ -285,6 +285,8 @@ print("----- FINISHED ! -----")
 #################################################
 #if salome.sg.hasDesktop():
 #  salome.sg.updateObjBrowser(True)
+
+
 ```
 
 * 단, 이 Script는 `import os` 해서 `raw_input()` 같은 함수를 사용하고 있기 때문에, Salome GUI 상의 Python Console에서는 입력이 불가능하다. (아쉽게도 Salome에서 현재까지는 User input을 지원하지 않는다.)
@@ -305,5 +307,3 @@ exit 0
 * 다만, 몇 가지 제약사항이 있는 것 같다.  어셈블리 관계가 너무 복잡하거나, 접촉면이 복잡한 관계로 구성되어 있을 경우에는 면 분할이 제대로 안될 확률이 높다.  부품과 부품 사이에는, 면접촉은 되지만 서로간에 Volume Interference(간섭)이 있으면 에러가 난다.  그런 경우에 대해서는 아무런 분기를 시켜두지 않았기 때문이다.
 * 접촉면은 자동적으로 별도의 Surface Group으로 형성되도록 해 놓았다.  그러나 역시 너무 관계가 복잡해지면 안된다.
 * 형상의 치수는 Mesh Parameter와 관련이 깊기 때문에, 제대로 Mesh가 생성되도록 하려면 Mesh Parameter를 잘 주는 것이 중요하다.
-
-
