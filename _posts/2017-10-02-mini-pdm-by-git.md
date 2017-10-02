@@ -362,6 +362,19 @@ trail.txt.*
 * 생략한다...  알아서 파악하면 될 것이다.
 
 
+
+## 예제 스크린샷
+
+* Gitea Example
+
+![screenshot-2017-10-2 lfs_test](https://user-images.githubusercontent.com/12775748/31081948-70a1b76e-a7c8-11e7-897f-996a7c5477c7.png)
+
+* SourceTree Example
+
+
+
+
+
 ## 추가 고찰
 
 * 개인적으로 또는 소수의 설계자가 참여한 팀에서, 버전관리 용도로 이렇게 구축해서 사용하는 것은 좋은 방법이 될 수 있다고 생각된다.
