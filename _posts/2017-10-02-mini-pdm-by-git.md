@@ -371,7 +371,7 @@ trail.txt.*
 
 * SourceTree Example
 
-
+![image 1](https://user-images.githubusercontent.com/12775748/31082516-2fd589e8-a7ca-11e7-9fda-e57e77f5594a.png)
 
 
 
