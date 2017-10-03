@@ -129,66 +129,7 @@ ifconfig
 
 * Go 언어로 만든 어플리케이션의 장점을 크게 누릴 수 있다.  예컨데, 하나의 단일 실행파일로 빌드된 것을 그냥 다운로드 받아 덮어써 주기만 해도 업데이트 되는 식이다.
 
-### Git 설치
-
-```bash
-sudo apt install git 
-```
-
-### Gitea 설치
-
-* 실행파일 다운로드
-
-```bash
-mkdir ~/gitea
-cd ~/gitea
-wget -O gitea https://dl.gitea.io/gitea/master/gitea-master-linux-arm-7
-```
-
-### 커스텀 설정
-
-* 설정은 [이곳](http://dymaxionkim.iptime.org:3100/dymaxionkim/GiteaPi_Custom)을 참조
-
-* 설정한 내용을 적용
-
-```bash
-cd /home/pi
-mkdir GiteaPi
-cd GiteaPi
-git clone http://dymaxionkim.iptime.org:3100/dymaxionkim/GiteaPi_Custom.git
-ln -s /home/pi/GiteaPi/GiteaPi_Custom/custom /home/pi/gitea/custom
-```
-
-### 최초실행 및 셋업
-
-```bash
-./gitea web --port 3100
-```
-
-해서 서비스 시작한 후, 웹브라우저로 들어가서 셋팅 실시.
-셋팅시 경로 부분은 모두 절대경로로 할 것.
-
-
-### 부팅시 자동 실행 설정
-
-```bash
-sudo nano /etc/rc.local
-```
-
-다음 내용을 추가
-
-```bash
-# Gitea
-su - pi -c '/home/pi/gitea/gitea web' &
-```
-
-### 커스텀 설정 수정시 업데이트
-
-```bash
-cd /home/pi/GiteaPi/GiteaPi_Custom
-git pull
-```
-
+* 설치 방법은 여기에 별도 정리 : https://dymaxionkim.github.io/beautiful-jekyll/2017-10-03-gitea/
 
 
 
