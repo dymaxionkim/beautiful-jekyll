@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Heatsink4LED with Salome and Elmer (V02)
 subtitle: >-
   Auto Modeling, Import, Grouping, Meshing, and Analysis Find correct junction
