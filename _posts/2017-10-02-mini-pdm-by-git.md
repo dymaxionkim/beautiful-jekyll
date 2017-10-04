@@ -37,12 +37,12 @@ tags: software
 ## 벤치마킹
 
 ### Solidworks용으로 git을 PDM으로 운용해 본 사례
-* https://plus.google.com/u/0/+BenFrantzDale/posts/5VnStcG1nQn
+* [https://plus.google.com/u/0/+BenFrantzDale/posts/5VnStcG1nQn](https://plus.google.com/u/0/+BenFrantzDale/posts/5VnStcG1nQn)
 * Ben FrantzDale 이라는 사람인데, 2012년도에 Git으로 운용을 시도해 본 것 같다.  현재도 사용중인지는 모른다.
 * 이 사례에서는 LFS가 나타나기 전이기 때문에, 그냥 Native Git으로 운용을 했었다.  걱정했던 파일 용량 증가도 그렇게 기하급수적이지는 않았던 것 같다.  그럼에도 불구하고 퍼포먼스를 충분히 뽑아내지는 못했을 수 있다.
 
 ### Peer to Peer PDM
-* http://www.proetoolbox.co.uk/6_Peer_To_Peer_PDM/P2PIdea.html
+* [http://www.proetoolbox.co.uk/6_Peer_To_Peer_PDM/P2PIdea.html](http://www.proetoolbox.co.uk/6_Peer_To_Peer_PDM/P2PIdea.html)
 * Chris Lewis라는 개인 개발자가, Creo 용으로 Git 기반의 PDM 시스템을 개발했던 사례다.
 * 특징은 Serverless 다시말해 모든 사용자가 서버 겸 클라이언트로 P2P 모델을 가지도록 한 것이다.
 * 단점은 Creo GUI 안으로 무리하게 넣다 보니, 설치가 엄청나게 까다롭고 또 내 경우엔 설치에 결국 실패했다.  MS IE 기반의 Web.Link를 사용한 것은 정말 실수다.
@@ -129,7 +129,7 @@ ifconfig
 
 * Go 언어로 만든 어플리케이션의 장점을 크게 누릴 수 있다.  예컨데, 하나의 단일 실행파일로 빌드된 것을 그냥 다운로드 받아 덮어써 주기만 해도 업데이트 되는 식이다.
 
-* 설치 방법은 여기에 별도 정리 : https://dymaxionkim.github.io/beautiful-jekyll/2017-10-03-gitea/
+* 설치 방법은 여기에 별도 정리 : [https://dymaxionkim.github.io/beautiful-jekyll/2017-10-03-gitea/](https://dymaxionkim.github.io/beautiful-jekyll/2017-10-03-gitea/)
 
 
 
