@@ -148,7 +148,7 @@ ifconfig
 
 * 다운로드는 [여기](https://www.sourcetreeapp.com/download-archives)서 적절한 것으로 골라서 받아 설치한다.
 
-* SourceTree 이외에도 여러가지 클라이언트 앱이 많은데, 그 중에 더 간단한 것으로는 [Github Desktop](https://desktop.github.com/)이 있고, 더 예쁜(?) 것으로는 [Git Kraken](https://www.gitkraken.com/)이 있다.  Git Kraken의 경우에는 LFS 기능이 Beta 딱지를 붙이고 활성화되어 있는데, 살짝 동작의 신뢰성이 떨어져 보인다. (리눅스 버전으로 사용해 보니 일부 동작이 제대로 안 되는 것 같다.)  Github Desktop의 경우에는 UI가 굉장히 단순화되어 있어 초보자에게 좀 더 적합해 보인다.  다만 LFS 기능이 제대로 되는지는 확인이 필요하다(릴리즈 노트 상으로는 LFS 기능이 들어가 있는 것으로 되어 있다).  또한 Github Desktop, Git Kraken 둘 다 Electron 기반으로 개발되어 있고, Git Kraken은 리눅스 버전도 제공된다.
+* SourceTree 이외에도 여러가지 클라이언트 앱이 많은데, 그 중에 더 간단한 것으로는 [Github Desktop](https://desktop.github.com/)이 있고, 더 예쁜(?) 것으로는 [Git Kraken](https://www.gitkraken.com/)이 있다.  Git Kraken의 경우에는 LFS 기능이 Beta 딱지를 붙이고 활성화되어 있는데, 동작의 신뢰성이 떨어져 보인다. (리눅스 버전으로 사용해 보니 일부 동작이 제대로 안 되는 것 같다.  브랜치를 냈다가 다시 머지 할 때 일부 파일이 사이즈 0kB로 되어버린다던가, Lock 옵션을 .gitattribute에 주니 그것을 제대로 처리(무시)하지 못한다던가, LFS 관리 파일들을 수동으로 pull 해 주지 않으면 원본이 다운로드 되어 있지 않다던가 등등의 결함이 보였다.)  Github Desktop의 경우에는 UI가 굉장히 단순화되어 있어 초보자에게 좀 더 적합해 보인다.  다만 LFS 기능이 제대로 되는지는 확인이 필요하다(릴리즈 노트 상으로는 LFS 기능이 들어가 있는 것으로 되어 있지만, 예상하지 못한 방식으로 동작할 가능성이 높은 것 같다.).  또한 Github Desktop, Git Kraken 둘 다 Electron 기반으로 개발되어 있고, Git Kraken은 리눅스 버전도 제공된다.
 
 
 
