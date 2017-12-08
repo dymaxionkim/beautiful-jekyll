@@ -38,7 +38,7 @@ navbar-links:
     - dILLINGER.IO: "http://dillinger.io/"
     - DRAW.IO: "https://www.draw.io/"
     - HOSTMATH: "http://www.hostmath.com/"
-    - SCI-HUB: "http://sci-hub.bz/"
+    - SCI-HUB: "http://80.82.77.83/"
   SEARCH:
     - SIMPLE: "search/"
     - GOOGLE: "searchGoogle/"
