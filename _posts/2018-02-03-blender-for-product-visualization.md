@@ -150,7 +150,7 @@ sudo apt install blender
 ### Render
 * 랜더링 속도를 높이기 위해 GPGPU 기능을 살리는 것이 더 좋겠다.
 * 가장 좋은 하드웨어는 당연히 NVIDIA QUADRO 그래픽카드일 것이다.
-* `File - User Preferences - System'으로 찾아들어가면, `Cycles Compute Device:` 카테고리가 있는데 현재 자신의 하드웨어 환경을 인식해서 표시해 주고 있을 것이다.  여기서 CUDA 선택하고 그래픽카드 체크해 준다.
+* `File - User Preferences - System`으로 찾아들어가면, `Cycles Compute Device:` 카테고리가 있는데 현재 자신의 하드웨어 환경을 인식해서 표시해 주고 있을 것이다.  여기서 CUDA 선택하고 그래픽카드 체크해 준다.
 * 그리고 카메라 아이콘 눌러서 랜더링 설정하는 부분에서 `Render` 카테고리에서 `Device:`를 `GPU Compute`로 해 준다.
 * 그리고 이제 `Render` 버튼을 때려주면 랜더링이 된다.
 * 랜더링이 다 되었으면, 단축키 `F3` 또는 `Image - Save as Image` 눌러서 그림으로 저장해 준다.
