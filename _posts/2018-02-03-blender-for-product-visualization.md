@@ -138,9 +138,6 @@ sudo apt install blender
 * 이런 과정을 반복해서 재질을 각각의 오브젝트에 전부 다 매겨준다.
 * 본인의 경우엔, 모든 오브젝트들을 일일이 다 바꿔주기가 너무 번거롭기 때문에 외관으로 드러나는 주요 부품들만 재질 적용해 준다.  나머지 잘 안 보이거나 덜 중요한 것들은 이미 색상 정도는 잘 들어와 있기 때문에 굳이 세밀하게 재질을 매겨주지 않아도 별 차이 없는 것 같다.
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 ### Environment
 * 이제 지구본 모양 아이콘을 눌러 환경(World)을 설정해 본다.
