@@ -104,14 +104,25 @@ sudo apt install blender
 
 
 ### Import into Blender
-* 일단 블랜더를 실행시키면 기본 환경이 나온다.  기본적으로 육면체 하나가 들어 있는데, 이건 쓸데 없으므로 `Del` 키를 눌러주고 확인해서 삭제한다.
+* 일단 블랜더를 실행시키면 기본 환경이 나온다.  본 예제에서는 아래 그림에서, 거의 빨간색으로 둘러친 부분만 사용한다고 보면 된다.
 
 ![004](https://user-images.githubusercontent.com/12775748/35767377-a2cc40b6-092e-11e8-90c5-af3e8028421c.png)
 
-* 참고로 본 예제에서는 위 그림에서, 빨간색으로 둘러친 부분만 사용한다고 보면 된다.
+* 기본적으로 육면체 하나가 들어 있는데, 이건 쓸데 없으므로 `Del` 키를 눌러주고 확인해서 삭제한다.
+
+![](https://user-images.githubusercontent.com/12775748/35773845-b1a6960e-09a1-11e8-99ce-4cf74ed92b32.png)
+
+
 * 그 다음, `File - Import - Wavefront(.obj)` 한 후 필요한 OBJ 파일을 읽어들인다.  미리 준비한 여러개의 OBJ 파일을 그대로 불러들여 겹쳐도 된다. (물론, CREO에서 기준 좌표계를 항상 동일한 것으로 해서 출력해 두었다면 위치도 제대로 잡아질 것이다.)
 * 개중에 깨지기 때문에 별도의 OBJ 파일로 만든 파트가 있다면, 우측 상단부의 `Outliner` 트리에서 다른 것들을 전부 Hide 시키고, 합칠 것들만 남겨둔 후, 단축키 `B` 또는 `Select - Border Select`로 합치기를 원하는 것들을 전부 긁어서 선택한다.  그 다음 단축키 `Ctrl-J` 또는 `Object -Join` 해 주면 선택된 것들을 모두 하나로 합칠 수 있다.
+
+![](https://user-images.githubusercontent.com/12775748/35773846-b1e2866e-09a1-11e8-97e7-d6fee7339675.png)
+
+![](https://user-images.githubusercontent.com/12775748/35773847-b2116fa6-09a1-11e8-8ecb-2c7bb80074d8.png)
+
 * 가급적 `Outliner` 트리에서 각각의 부품들(오브젝트들)의 명칭을 구분하기 쉽게 바꿔주는 것이 깔끔할 것이다.
+
+![](https://user-images.githubusercontent.com/12775748/35773848-b2410220-09a1-11e8-8225-b40b3deaefef.png)
 
 ![005](https://user-images.githubusercontent.com/12775748/35767378-a2f2c916-092e-11e8-892c-c96c7ee8a213.png)
 
@@ -119,6 +130,9 @@ sudo apt install blender
 ### Mesh 정돈
 * 개중에 매쉬가 너무 성글어서, 랜더링 후에 각져서 보이는 경우에는 해당 매쉬를 뭉개주는 것이 좋겠다.
 * 해당 오브젝트를 선택해 준 다음(해당 오브젝트 위에서 마우스 오른쪽 버튼 누르면 선택됨), 현재의 `Object Mode`를 `Edit Mode`로 바꾼다.
+
+![](https://user-images.githubusercontent.com/12775748/35773857-b3e9cd32-09a1-11e8-9143-8ebe5f69da30.png)
+
 * 그 다음 `Mesh - Faces - Shade Smooth`를 해 주면 매끄러운 면으로 뭉개져서 랜더링이 된다.
 * 다만 충분히 조밀하게 만든 것이라면 생략해도 굳이 눈에 띄게 각져보이지는 않으므로 필요할 때 필요한 오브젝트만 손 봐주면 될 것 같다.
 
@@ -133,6 +147,8 @@ sudo apt install blender
 * 이후 좌측 상단부 `Tools` 탭 안에서 `Scale`을 눌러준 후 마우스를 그대로 좌우로 움직여서 원하는 사이즈로 조절한다.
 * 아울러 `Tanslate` 및 `Rotate`를 이용하여 원하는 방향과 위치에 놓이도록 조절해 준다.
 
+![](https://user-images.githubusercontent.com/12775748/35773849-b26fc68c-09a1-11e8-84b4-e0c980131458.png)
+
 
 ### Materials
 * 각각의 부품의 재질을 알맞게 설정해 주는 것이 좋겠다.
@@ -140,20 +156,30 @@ sudo apt install blender
 * 여기서는 [Blendermada](http://blendermada.com/addon/) 에서 애드온 코드를 하나 다운로드 받아서 설치하자.  다운로드 받으면 .py 파일이 하나이다.
 * 블랜더에서 `File - User Preferences - Add-ons - Community`로 찾아들어간 다음, `Material: Blendermada Client`를 체크해 주고, `▷` 모양을 눌러서 안을 들여다 보면 `Use a big preview`도 체크해 준다.
 * 그리고 창의 좌측하단에 `Save User Settings` 눌러주고 창을 닫으면 된다.
+
+![](https://user-images.githubusercontent.com/12775748/35773850-b2a09a5a-09a1-11e8-9867-ed514b0fb4e5.png)
+
+![](https://user-images.githubusercontent.com/12775748/35773852-b2cd2566-09a1-11e8-8164-c5cd221ae5b2.png)
+
 * 이제 재질을 줄 오브젝트를 선택한 후, 머터리얼 설정에 들어가서 보면 `Blendermada Client` 카테고리가 생겨있을 것이다.  여기 머터리얼들은 대부분 Cycles 랜더러를 위한 것이므로, 상단부 중앙에서 엔진을 Cycles로 바꿔준다.
 * 그리고 `Update`를 눌러주면 카테고리와 머터리얼들이 들어와서 보인다.
 * 이중에 필요한 걸 골라주고, `Preview`를 누르면 대충 어떤건지 알 수 있고, 다시 `Preview` 눌러서 그림을 닫아준다.
 * 이제 `Import`를 누르면 골라진 재질이 들어와서 현재 선택되어 있는 오브젝트에 적용이 된다.  가급적 들어온 머터리얼의 명칭은 편한 것으로 잘 정리해서 바꿔준다.  필요할 경우 페인트 같은 것의 컬러를 바꾸는 등의 설정을 해서 손봐줄 수 있다.
+
+![](https://user-images.githubusercontent.com/12775748/35773853-b2fda7f4-09a1-11e8-8a8f-75b9f3a3d3cd.png)
+
 * 이런 과정을 반복해서 재질을 각각의 오브젝트에 전부 다 매겨준다.
 * 본인의 경우엔, 모든 오브젝트들을 일일이 다 바꿔주기가 너무 번거롭기 때문에 외관으로 드러나는 주요 부품들만 재질 적용해 준다.  나머지 잘 안 보이거나 덜 중요한 것들은 이미 색상 정도는 잘 들어와 있기 때문에 굳이 세밀하게 재질을 매겨주지 않아도 별 차이 없는 것 같다.
 
 
-### Environment
+### World
 * 이제 지구본 모양 아이콘을 눌러 환경(World)을 설정해 본다.
 * 그냥 단색 컬러로 하는 것 보다는 주변 환경 그림을 입혀주는 것이 더 현실감이 있기 때문에 그렇게 해 보자.
 * 구글에서 `hdri`로 검색해 보면 많은 환경 그림들을 찾아볼 수 있다.  적당한 걸 하나 골라서 다운로드 받아서 현재 작업중인 폴더에 함께 넣어놓는다.
 * World 설정의 `Surface`안에서 `Color:` 카테고리에 `Environment Texture`를 선택한다.  그리고 `Open`을 눌러서 환경 그림 파일을 고른다.
 * `Strength`로 밝기를 바꿔준다.  일단은 기본값으로 그냥 둬 보고, 너무 어둡다 싶으면 나중에 높여보던가 하면서 조절한다.
+
+![](https://user-images.githubusercontent.com/12775748/35773854-b34bd94c-09a1-11e8-9cab-19bd44be28ca.png)
 
 
 ### Render
@@ -162,9 +188,20 @@ sudo apt install blender
 * `File - User Preferences - System`으로 찾아들어가면, `Cycles Compute Device:` 카테고리가 있는데 현재 자신의 하드웨어 환경을 인식해서 표시해 주고 있을 것이다.  여기서 CUDA 선택하고 그래픽카드 체크해 준다.
 * 그리고 카메라 아이콘 눌러서 랜더링 설정하는 부분에서 `Render` 카테고리에서 `Device:`를 `GPU Compute`로 해 준다.
 * 그리고 이제 `Render` 버튼을 때려주면 랜더링이 된다.
+
+![](https://user-images.githubusercontent.com/12775748/35773855-b3787588-09a1-11e8-8328-6b1b4bd02b2e.png)
+
 * 랜더링이 다 되었으면, 단축키 `F3` 또는 `Image - Save as Image` 눌러서 그림으로 저장해 준다.
 
 ![011](https://user-images.githubusercontent.com/12775748/35767384-a3f87f54-092e-11e8-8c0f-cf21e44e4687.png)
+
+* 그리고 다시 3D View 모드로 돌아오면 된다.
+
+![](https://user-images.githubusercontent.com/12775748/35773858-b41419c0-09a1-11e8-9e2f-6c679cb52d70.png)
+
+* 3D View 모드에서, 쉐이딩 상태를 변경하려면 아래와 같이 고르면 된다.
+
+![](https://user-images.githubusercontent.com/12775748/35773856-b3a4a428-09a1-11e8-84bd-9badb6f59959.png)
 
 
 ### 기타
