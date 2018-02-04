@@ -37,6 +37,7 @@ sudo apt install blender
 
 
 ## 자습 참고
+* [Learning Flow: Introduction to Blender](https://cgcookie.com/flow/introduction-to-blender) : 입문 동영상 강의
 * [네이버 까페](https://cafe.naver.com/blender3d)
 * [Blender Cycles memo](http://cycles.wiki.fc2.com/) : 일본어니깐 번역해서 보면 된다.
 * [Blender Manual](https://docs.blender.org/manual/en/dev/index.html)
