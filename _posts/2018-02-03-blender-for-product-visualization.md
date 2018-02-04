@@ -80,7 +80,7 @@ sudo apt install blender
 |STL          |X              |X             |Good         |O            |
 |WRL          |O              |O             |Bad          |O            |
 |SLP          |O              |O             |Good         |X            |
-|Wavefront OBJ|O              |O             |O            |O            |
+|Wavefront OBJ|O              |O             |Good         |O            |
 
 * 다만, 부품 중에서 형상이 상당히 복잡하거나 좌표정밀도 문제등이 있을 경우에는, 해당 부품이 면들(Facets)별로 다 깨져서 블랜더로 불러들여지는 경우가 가끔 있다.  이때는 해당 부품만 별도의 OBJ 파일로 만들어서 따로 불러들여서 모든 요소들을 합치는 식(join)으로 처리하면 된다.
 
