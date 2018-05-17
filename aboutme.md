@@ -8,8 +8,8 @@ bigimg: /img/aboutme01.jpg
 ## Who
 * __Name__ : Kim,Dong-ho
 * __Job__ : Mechanical Engineer / Mechanical Designer
-* __[JSON Resume](https://dymaxionkim.github.io/My_Slides/2017/2017-01-30_Resume/resume_onepage.html)__
-* __[Portfolio Slides](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html)__
+* __[JSON Resume](https://dymaxionkim.github.io/My_Slides/2018/Resume/resume_onepage.html)__
+* __[Portfolio Slides](https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.html)__
 
 ## Story
 
@@ -21,10 +21,13 @@ bigimg: /img/aboutme01.jpg
 
 
 ## Projects
-* 2015~2016 (네번째 직장)
+* 2017~2018
+  - [FAT3](https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.html#/1/1)
+  - [LPL2](https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.html#/1/2)
+* 2015~2016
   - [TRCWS](/beautiful-jekyll/2017-01-17-RCWS)
   - [SRCWS](/beautiful-jekyll/2017-01-18-SRCWS)
-* 2007~2015 (세번째 직장)
+* 2007~2015
   - [3D Print](/beautiful-jekyll/2017-01-18-3Dprint)
   - [ARO](/beautiful-jekyll/2017-01-18-ARO)
   - [Educational Devices](/beautiful-jekyll/2017-01-18-EducationalDevices)
@@ -39,10 +42,10 @@ bigimg: /img/aboutme01.jpg
   - [K201 - DSLR Motion Control](/beautiful-jekyll/2017-01-19-K201)
 * 2006~2007 (프리랜서)
   - Marine Devices : [Cables](https://grabcad.com/library/cable-assembly-for-marine-boat-1), [Steering](https://grabcad.com/library/txbr-rack-steering-assembly-for-marine-boats-1), [Throttle Lever](https://grabcad.com/library/smco-throtlle-lever-for-marine-boats-1)
-* 2003~2006 (두번째 직장)
+* 2003~2006
   - [Consumer Devices](/beautiful-jekyll/2017-01-18-ConsumerDevices)
   - [ESEM](http://blog.naver.com/dymaxion/150002529553)
-* 2001~2003 (첫 직장)
+* 2001~2003
   - Fine Tungsten Needle by ElectroChemical MEMS Process for Chip Probe Station
   - Wafer Deprocessing Inspection Machine
   - Wafer Decapper Inspection Machine
