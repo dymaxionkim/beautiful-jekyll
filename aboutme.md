@@ -8,8 +8,9 @@ bigimg: /img/aboutme01.jpg
 ## Who
 * __Name__ : Kim,Dong-ho
 * __Job__ : Mechanical Engineer / Mechanical Designer
-* __[JSON Resume](https://dymaxionkim.github.io/My_Slides/2018/Resume/resume_onepage.html)__
-* __[Portfolio Slides](https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.html)__
+* __[JSON Resume](https://dymaxionkim.github.io/My_Slides/2018/Resume/resume_onepage.html)__, __[PDF](https://dymaxionkim.github.io/My_Slides/2018/Resume/resume_onepage.pdf)__
+* __[Portfolio Slides](https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.html)__, __[PDF](https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.pdf)__
+* __[Essay for Daincube](https://dymaxionkim.github.io/My_Slides/2018/Essay/Essay.html)__, __[PDF](https://dymaxionkim.github.io/My_Slides/2018/Essay/Essay.pdf)__
 
 ## Story
 
