@@ -46,7 +46,6 @@ rclone v1.36
 ## Config
 
 ```bash
-(py2) osboxes@ubuntu:~$ sudo mkdir /mnt/GDRIVE
 (py2) osboxes@ubuntu:~$ rclone config
 2018/11/22 15:42:37 NOTICE: Config file "/home/osboxes/.config/rclone/rclone.conf" not found - using defaults
 No remotes found - make a new one
@@ -129,6 +128,7 @@ e/n/d/r/c/s/q> q
 ## Permission
 
 ```bash
+(py2) osboxes@ubuntu:~$ sudo mkdir /mnt/GDRIVE
 (py2) osboxes@ubuntu:~$ sudo chown osboxes /mnt/GDRIVE
 (py2) osboxes@ubuntu:~$ ln -s /mnt/GDRIVE ~/GDRIVE
 ```
