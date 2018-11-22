@@ -139,7 +139,7 @@ e/n/d/r/c/s/q> q
 (py2) osboxes@ubuntu:~$ sudo nano /etc/fuse.conf
 ```
 
-------> Add `ser_allow_other`
+------> Add `user_allow_other`
 
 
 ## Using
