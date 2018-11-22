@@ -150,7 +150,6 @@ rclone lsd GDRIVE:/
 ```
 
 * 싱크 명령
-
 ```bash
 rclone sync GDRIVE:/ /mnt/GDRIVE
 ```
