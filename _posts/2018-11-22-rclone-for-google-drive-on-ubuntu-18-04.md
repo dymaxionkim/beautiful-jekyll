@@ -9,13 +9,13 @@ tags: software
 subtitle: 리눅스에 구글드라이브 마운팅하기
 ---
 
+* Ubuntu 18.04부터 rclone이 apt 기본 패키지로 포함되어서, 간편하게 설치 가능하게 되었다.
+* 기존 Ubuntu 16.04는 [이곳](https://rclone.org/downloads/) 참조.
+* snap 패키지로는 설치해도 작동을 제대로 안하기 때문에 쓸모가 없는 것 같다.
+
 ## Install rclone
 
 ```bash
-(py2) osboxes@ubuntu:~$ sudo apt install rclone
-[sudo] osboxes의 암호: 
-E: /var/lib/dpkg/lock-frontend 잠금 파일을 얻을 수 없습니다 - open (11: 자원이 일시적으로 사용 불가능함)
-E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?
 (py2) osboxes@ubuntu:~$ sudo apt install rclone
 패키지 목록을 읽는 중입니다... 완료
 의존성 트리를 만드는 중입니다       
