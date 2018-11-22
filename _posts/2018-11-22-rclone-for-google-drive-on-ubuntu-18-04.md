@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: rclone for Google Drive on Ubuntu 18.04
-bigimg: /img/bigimg44.jpg
+bigimg: /img/bigimg43.jpg
 date: '2018-11-22'
 image: 'https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png'
 tags: software
