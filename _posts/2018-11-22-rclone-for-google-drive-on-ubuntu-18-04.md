@@ -96,14 +96,14 @@ Use auto config?
 y) Yes
 n) No
 y/n> n
-If your browser doesn't open automatically go to the following link: https://accounts.google.com/o/oauth2/auth?client_id=202264815644.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&state=3c468a848426689cd3c8b1e5037b3681
+If your browser doesn't open automatically go to the following link: https://accounts.google.com/o/oauth2/auth?client_id=....apps.googleusercontent.com&redirect_uri=u..&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&state=3..
 Log in and authorize rclone for access
 Enter verification code> ~~~~~~웹브라우저상에 뜨는 코드~~~~~~~
 --------------------
 [GDRIVE]
 client_id = 
 client_secret = 
-token = {"access_token":"ya29.GltcBg4e6xeTqFb3118yvyRhtmo3AMk-m6s6Eg5zv9LLDvfjzzlXWWCda81P6dfDTgJdU9GHb1gyiKj-ZIHh5RlDnSRVaTuJwNZh7eFs3dolxFLsu53hCd7d_83l","token_type":"Bearer","refresh_token":"1/uFQ8Y-sREG2IogkFe5xpIP7MSdZ6n2RP-dVmTMAr2ao","expiry":"2018-11-22T16:44:48.736213405+09:00"}
+token = {"access_token":"...","token_type":"Bearer","refresh_token":"1/u...","expiry":"2018-11-22T16:44:48.736213405+09:00"}
 --------------------
 y) Yes this is OK
 e) Edit this remote
