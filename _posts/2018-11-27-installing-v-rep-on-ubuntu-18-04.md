@@ -5,12 +5,12 @@ title: Installing V-REP on Ubuntu 18.04
 subtitle: 우분투 18.04에 V-rep를 설치해 보니 실패한다.  이를 해결하기 위한 선행작업.
 date: '2018-11-27'
 bigimg: /img/bigimg45.jpg
-image: 'http://coppeliarobotics.com/images/v-rep-logo-pro-edu.png?crc=90231548'
+image: 'https://avatars0.githubusercontent.com/u/29758034?s=200&v=4'
 tags: software
 ---
 
 * 개발사 : http://coppeliarobotics.com/
-
+* 소스코드 저장소 : https://github.com/CoppeliaRobotics/v_rep
 * Ref : http://www.forum.coppeliarobotics.com/viewtopic.php?f=5&t=7288
 
 * 의존성 해결
