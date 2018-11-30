@@ -34,24 +34,14 @@ cd ~
 #!/bin/bash
 
 ##########################################################################
-#
 # Config my Git
 # svg, png, jpg, gif, pdf, docx, odt, ods, odp
-#
 # by Dymaxion.Kim@gmail.com
-#
 # 20181130 : 1st version for Ubuntu 18.04
-#
 ##########################################################################
-
-# Ref.
-# docx ::: https://git-scm.com/book/ko/v2/Git%EB%A7%9E%EC%B6%A4-Git-Attributes
-# ods,odt,odp ::: https://gist.github.com/17twenty/4985374
-
 
 # Make Directory for Scripts
 mkdir -p ~/.config/git/ext
-
 
 # office2pdf Script
 OFFICE=${HOME}/.config/git/ext/office2pdf
@@ -83,7 +73,6 @@ echo '# office2pdf' >> ${BASHRC}
 echo 'export PATH="~/.config/git/ext:$PATH"' >> ${BASHRC}
 echo '' >> ${BASHRC}
 
-
 # Diff Images Script
 IMAGE=${HOME}/.config/git/ext/diffimg
 echo '#!/bin/bash' > ${IMAGE}
@@ -91,7 +80,6 @@ echo '# Diff Images (svg,png,jpg,gif)' >> ${IMAGE}
 echo 'compare -verbose -fuzz 3% $2 $1 png:- | montage -geometry +4+4 $2 - $1 png:- | display -antialias -title "$1" -' >> ${IMAGE}
 echo '' >> ${IMAGE}
 chmod +x ${IMAGE}
-
 
 ## ~/.gitconfig
 git config --global core.attributesfile ~/.config/git/gitattributes
@@ -101,7 +89,6 @@ git config --global diff.diffimg.command ${HOME}/.config/git/ext/diffimg
 git config --global diff.diffpdf.command diffpdf
 git config --global alias.diffimg 'difftool -y -t diffimg'
 #git config --global alias.diffpdf 'difftool -y -t diffpdf'
-
 
 ## ~/.gitattributes
 ATTR=${HOME}/.config/git/gitattributes
@@ -117,7 +104,6 @@ echo '*.jpeg diff=images' >> ${ATTR}
 echo '*.gif diff=images' >> ${ATTR}
 echo '*.pdf diff=pdf' >> ${ATTR}
 echo '' >> ${ATTR}
-
 
 echo "Finished !"
 exit 0
