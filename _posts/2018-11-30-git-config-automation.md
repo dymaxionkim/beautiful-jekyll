@@ -8,7 +8,7 @@ image: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png'
 tags: software
 subtitle: My git config automation
 ---
-## 개요
+## 나의 git 환경을 한 방에 설정하기
 
 * git을 처음 설치하고 난 직후에 글로벌 환경설정을 자동으로 수행하기 위한 쉘스크립트 파일이다.
 * Ubuntu 16.04, 18.04에서 적용해서 문제가 없었다.
