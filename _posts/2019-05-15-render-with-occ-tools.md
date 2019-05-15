@@ -31,6 +31,8 @@ tags: software
 * 파일을 읽어들인 후에, 화면에서의 움직임이 상당히 날렵하다.  상당히 큰 어셈블리를 읽어들여도 장애없이 매우 빠르게 돌려볼 수 있다.
 * 분해, 단면보기 정도는 기본적으로 잘 된다.
 
+![](https://www.opencascade.com/sites/default/files/934_cad-assistant-for-android-showing-2.png)
+
 
 ## CADRays
 
