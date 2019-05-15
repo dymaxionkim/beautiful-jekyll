@@ -49,6 +49,10 @@ tags: software
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6_uGxmhuVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </html>
 
+<html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu_dMMQAhd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</html>
+
 
 
 ## 워크플로우
@@ -66,6 +70,3 @@ tags: software
 * 경쟁자 포지션으로는 [Kerkythea](http://www.kerkythea.net/cms/) 정도를 생각해 볼 수 있는데, 이것보다 훨씬 더 쉽다고 생각하면 될 것 같다.  물론 기능 자체는 이것보다 더 심플하다. (애니메이션이 안된다는 것 등)
 * CAD Assistant는 상당히 안정적으로 동작한다.  그러나 CADRays는 대규모 파일을 불러들이면 GPU 부하가 상당히 많이 걸려서 좀 버벅대는 편이다. 부하가 많이 걸리면 그냥 비정상종료되는 경우도 있다.  (그래픽카드는 일단 고성능을 쓰는 것이 좋겠다.)
 * 만일 그래픽카드 성능이 좋지 않은 컴퓨터를 사용한다면, CADRays 대신 Blender에서 Cycles 렌더러로 멀티코어 CPU로 설정해서 이용하는 편이 낫다고 생각된다.
-
-
-
