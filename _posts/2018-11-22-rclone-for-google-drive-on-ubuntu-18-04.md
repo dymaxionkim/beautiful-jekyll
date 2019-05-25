@@ -35,6 +35,12 @@ rclone (1.36-3) 설정하는 중입니다 ...
 Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
 ```
 
+최신버전을 설치하고자 할 때는
+
+```bash
+curl https://rclone.org/install.sh | sudo bash
+```
+
 ## Check Version
 
 ```bash
