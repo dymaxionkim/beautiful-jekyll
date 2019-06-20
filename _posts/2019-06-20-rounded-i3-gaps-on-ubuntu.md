@@ -337,5 +337,10 @@ cpu_usage {
 }
 ```
 
+## 셋팅 결과
+
+![2019-06-20-164419_1920x1080_scrot](https://user-images.githubusercontent.com/12775748/59842913-793c1600-9392-11e9-8775-ea5a961efa73.png)
+
+
 끝!
 
