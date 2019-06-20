@@ -342,6 +342,6 @@ cpu_usage {
 
 ![2019-06-20-164419_1920x1080_scrot](https://user-images.githubusercontent.com/12775748/59842913-793c1600-9392-11e9-8775-ea5a961efa73.png)
 
+![2019-06-20-235807_1366x768_scrot](https://user-images.githubusercontent.com/12775748/59859334-7dc6f580-93b7-11e9-9bbd-fbd08147a2ea.png)
 
 끝!
-
