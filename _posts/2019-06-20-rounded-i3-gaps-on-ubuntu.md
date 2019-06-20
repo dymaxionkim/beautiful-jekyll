@@ -24,9 +24,10 @@ i3 윈도우 매니저는 C언어로 개발되었고, 비슷한 종류의 다른
 
 ## 전제조건
 
+* Ubuntu 계열일 것.
 * 디스플레이 매니저가 설치되어 있을 것. (gdm3, lightdm...)
 * git이 설치되어 있을 것.
-* 다음 유틸리티들도 설치되어 있으면 좋다 (설정파일과 그대로 매칭) : qlipper, nm-applet, lxpolkit, pasystray, blueman-manager
+* 다음 유틸리티들도 설치되어 있으면 좋다 (설정파일과 그대로 매칭되는 권장사항) : qlipper, nm-applet, lxpolkit, pasystray, blueman-manager, feh, compton, terminator, min, firefox-trunk, pcmanfm ...
 
 
 ## 빌드 및 설치 스크립트
