@@ -220,6 +220,7 @@ blur-kern = "5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1";
 * Quadro p400 그래픽카드 데스크탑의 경우
 
 ![2019-06-23-215624_1920x1080_scrot](https://user-images.githubusercontent.com/12775748/59989103-af221880-9678-11e9-9fd9-7121e89fe11e.png)
+
 ![2019-06-23-215638_1920x1080_scrot](https://user-images.githubusercontent.com/12775748/59989104-afbaaf00-9678-11e9-861b-73caa4181267.png)
 
 활성창만 불투명으로 보이도록 설정.
