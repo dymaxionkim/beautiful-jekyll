@@ -217,12 +217,23 @@ blur-kern = "5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1";
 
 ![2019-06-24-110950_1366x768_scrot](https://user-images.githubusercontent.com/12775748/59988941-ea701780-9677-11e9-9049-c7005cbf8f33.png)
 
-* Quadro p400 그래픽카드 데스크탑의 경우
+* Quadro p400 그래픽카드 데스크탑의 경우 (NVIDIA 430 드라이버 적용)
 
 ![2019-06-23-215624_1920x1080_scrot](https://user-images.githubusercontent.com/12775748/59989103-af221880-9678-11e9-9fd9-7121e89fe11e.png)
 
 ![2019-06-23-215638_1920x1080_scrot](https://user-images.githubusercontent.com/12775748/59989104-afbaaf00-9678-11e9-861b-73caa4181267.png)
 
 활성창만 불투명으로 보이도록 설정.
+
+* HiDPI (Test)
+
+![2019-06-24-163121_3840x2160_scrot](https://user-images.githubusercontent.com/12775748/60015152-ba4b6780-96bd-11e9-8a51-d66b07718d09.png)
+
+고해상도 상황에서는 아무래도 퍼포먼스가 많이 저하된다...
+
+
+## 잠정 결론
+
+* 아마 그래픽카드에 따라서 특성을 좀 타는 것 같고, NIDIA의 경우에는 제대로 동작하지 않아서 blur-kern 설정을 건드려서 억지로 맞추는 수 밖에 없었다.  확실하게 정상 동작하는 것은 인텔 드라이버 같다.
 
 끝!
