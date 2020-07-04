@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Trend of Mesh Generator, CAE에 관한 생각들'
+title: 'Trend of Mesh Generator, CAE'
 subtitle: Trend of Mesh Generator
 date: '2020-07-04'
 bigimg: /img/bigimg51.jpg
