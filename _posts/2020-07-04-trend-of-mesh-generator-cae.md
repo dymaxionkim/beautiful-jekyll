@@ -43,7 +43,7 @@ image: 'https://ngsolve.org/images/blog/torusmesh.png'
 
 ### 4. Netgen
 
-* https://ngsolve.org/
+* [https://ngsolve.org/](https://ngsolve.org/)
 * 이제 STEP 파일을 읽어들였으니, 그것을 메쉬로 변환해 줄 수 있는 메쉬 생성기 엔진이 필요
 * FOSS 쪽에서는 Tetgen, Netgen, SnappyHexMesh, gmsh 등이 있음
 * 가장 기본적으로 많이 사용되는 것은 Netgen
@@ -57,9 +57,9 @@ image: 'https://ngsolve.org/images/blog/torusmesh.png'
 * [GiD](https://www.gidhome.com/) : 저렴하면서 FOSS로 만족하지 못하는 경우에 선택가능한 제품.  학교나 연구실에서 많이 사용.
 * [Alair Hypermesh](https://www.altair.co.kr/hypermesh/) : 프로페셔널한 수준의 메쉬 생성용.  메쉬 생성기 단독 제품 중에서 가장 사용률이 높음.
 
-### 5. Midas MeshFree
+### 6. Midas MeshFree
 
-* https://kor.midasuser.com/meshfree/
+* [https://kor.midasuser.com/meshfree/](https://kor.midasuser.com/meshfree/)
 * 국내 CAE 소프트웨어 업체가 만든 제품명이자 마케팅 용어
 * 마케팅으로 "격자를 짤 필요가 없다"고 표현하고 있는데 이 표현은 사실 문제가 있다고 생각됨
 * 메쉬를 실제로 생성을 할 필요가 없다는 것이 아니고, 메쉬 생성의 어려움을 줄여준다는 의미
@@ -68,17 +68,17 @@ image: 'https://ngsolve.org/images/blog/torusmesh.png'
 * 나머지 Solver 부분은 기존의 MidasNFX 제품과 별 차이 없음
 * UI 디자인도 예쁘기는 하지만 사실 별 특징이 없고 기능이 상당히 단순하게 정리되어 있음
 
-### 6. Cubit
+### 7. Cubit
 
-* 미국 국립 Sandia 연구소에서 개발 https://cubit.sandia.gov/
+* 미국 국립 Sandia 연구소에서 개발 [https://cubit.sandia.gov/](https://cubit.sandia.gov/)
 * Midas MeshFree의 아이디어의 원조격이 되는 메쉬생성기 (경계 무격자법)
 * 구현된 수준은 Midas MeshFree보다 훨씬 더 우수함 (단순 육면체 격자 뿐만 아니라 더 복잡한 형태까지 대응)
 * 미국의 단체(연구소)에서는 무료로 사용 가능.  해외에서는 무료버전 사용 불가능.
 * 상업화된 버전은 coreform사에서 제, 현재는 한단계 더 나아간 신기술을 적용한 제품 출시 준비
 
-### 7. Coreform Crunch
+### 8. Coreform Crunch
 
-* https://coreform.com/
+* [https://coreform.com/](https://coreform.com/)
 * 격자생성에서 기존의 1차 직선형 격자에서 더 나아가, 3차 Spline 곡선으로 격자 생성하는 원리
 * 물론 이 경우, 솔버 측에서는 특정 지점의 물리량을 얻을 때 3차 Spline Interpolation해서 정확한 값을 얻을 수 있게 됨
 * Spline 기반의 고차원 격자 생성 기법은 2000년대 들어서 기초연구가 주로 진행되었는데, 한국에서도 기본적인 이론상 가능성을 탐색한 논문 정도는 있었음
